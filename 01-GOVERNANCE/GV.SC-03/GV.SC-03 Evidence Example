@@ -1,0 +1,36 @@
+For the control GV.SC-03 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Cybersecurity supply chain risk management is integrated into cybersecurity and enterprise risk management, risk assessment, and improvement processes," here’s how it can be understood and applied for COMPANY X. This control focuses on ensuring that supply chain risks are considered as an integral part of the organization’s overall risk management strategy.
+
+Understanding GV.SC-03
+
+This control means that COMPANY X should ensure its cybersecurity supply chain risk management (C-SCRM) processes are fully embedded within the broader frameworks of cybersecurity and enterprise risk management. It requires that risks from the supply chain are assessed, managed, and improved upon with the same rigor as other types of risks to the organization.
+
+Expected Evidence
+
+Integrated Risk Management Framework Documentation:
+  Documents that demonstrate how C-SCRM is a part of the organization's overall risk management framework. This should include how supply chain risks are identified, assessed, and mitigated as part of enterprise-wide risk management activities.
+    Example: Risk management policies or frameworks that explicitly include sections on supply chain risks, detailing the methods for integrating these risks into the overall risk assessment and management processes.
+
+Risk Assessment Reports:
+  Regular reports that evaluate the risks associated with suppliers and third parties. These reports should show how findings are integrated into the broader organizational risk assessments.
+    Example: Annual risk assessment reports that include a dedicated section for supply chain risks, showing how these risks are scored, prioritized, and managed in line with other organizational risks.
+
+Meeting Minutes and Decision Documentation:
+  Records from meetings where supply chain risks are discussed along with other cybersecurity and enterprise risks. This includes decisions made to address identified risks.
+    Example: Minutes from risk management committee meetings where supply chain risks are reviewed alongside other cybersecurity risks, with documented decisions on risk treatment plans.
+
+Training and Communication Materials:
+  Training programs and communication materials that include information on supply chain risk management, ensuring that all relevant personnel are aware of how these processes are integrated with other risk management efforts.
+  Example: Training modules for employees that cover how to identify and manage supply chain risks, and how these efforts fit into the larger risk management strategy.
+
+Simple Explanation
+Imagine COMPANY X as a large building with many doors and windows (the supply chain), each providing a potential entry point for risks.
+
+  Building a Comprehensive Security Plan: Just like a building security officer would ensure that all doors and windows are included in the security plans, COMPANY X integrates the management of supply chain risks into its overall security strategy. This means that any risks that could enter through these "doors and windows" are assessed and managed just like risks that could come through the front door.
+
+  Regular Security Checks: Just like regular checks of locks and alarms on all entry points of a building, COMPANY X conducts regular assessments of its supply chain risks to ensure they are adequately managed and that the risk management practices are effective.
+
+  Security Meetings: Just as building security personnel would meet regularly to discuss the status of the building’s security, COMPANY X’s management holds meetings where supply chain risks are discussed alongside other types of risks. Decisions on how to manage these risks are made during these meetings.
+
+  Training the Security Team: Just as a building’s security team would be trained on all aspects of building security, including checking doors and windows, COMPANY X trains its staff on how supply chain risks are part of the overall risk landscape and how to manage them effectively.
+
+By integrating supply chain risk management into the broader risk management processes, COMPANY X ensures that these risks are continuously identified, assessed, managed, and mitigated, providing a comprehensive approach to securing the organization from all angles.

@@ -1,0 +1,36 @@
+For the control GV.SC-02 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Cybersecurity roles and responsibilities for suppliers, customers, and partners are established, communicated, and coordinated internally and externally," here’s how it can be understood and applied for COMPANY X. This control focuses on ensuring that all parties involved in the supply chain are clear about their roles in maintaining cybersecurity.
+
+Understanding GV.SC-02
+
+This control means that COMPANY X needs to clearly define and communicate the cybersecurity responsibilities of everyone involved in its supply chain, including suppliers, partners, and even customers. These responsibilities must be coordinated to ensure that cybersecurity measures are consistent and effective across all interactions.
+
+Expected Evidence
+
+Roles and Responsibilities Documentation:
+  Formal documents that specify the cybersecurity responsibilities of suppliers, partners, and customers. These documents should be comprehensive, detailing what each party is expected to do to maintain the security of shared data and systems.
+  Example: Contractual agreements or MOUs (Memorandums of Understanding) that include specific cybersecurity clauses outlining the roles and responsibilities of all parties involved.
+
+Communication Records:
+  Evidence that the roles and responsibilities have been communicated to and acknowledged by suppliers, partners, and customers. This might include correspondence, meeting minutes, or training sessions.
+  Example: Emails or recorded presentations sent to suppliers explaining their cybersecurity obligations and records of acknowledgment or acceptance from these suppliers.
+
+Internal Coordination Mechanisms:
+  Systems or processes within COMPANY X that ensure internal teams are coordinated in their approach to managing supplier and partner relationships from a cybersecurity perspective.
+  Example: Internal guidelines or checklists used by procurement and IT security teams to ensure that supplier roles and responsibilities are clearly defined and aligned with organizational cybersecurity policies.
+
+External Coordination Mechanisms:
+  Processes that facilitate the coordination of cybersecurity efforts between COMPANY X and its external parties. These mechanisms help to ensure that everyone is working together effectively to mitigate risks.
+  Example: Regular security reviews or joint cybersecurity task force meetings with key suppliers and partners.
+
+Simple Explanation
+Think of COMPANY X’s supply chain cybersecurity like organizing a group project in school:
+
+  Defining the Project Roles: Just like a teacher assigns roles to each student in a group project, COMPANY X defines specific cybersecurity tasks and responsibilities for each supplier and partner. This could be ensuring data is encrypted, access is controlled, or security patches are applied promptly.
+
+  Telling Everyone What to Do: The teacher (COMPANY X) explains to each student (supplier, partner, customer) what their part of the project is. This is done through contracts, meetings, or training sessions to make sure everyone understands their responsibilities.
+
+  Working Together: Just as students in a group need to coordinate when and how they do their parts of the project, COMPANY X and its suppliers need mechanisms to ensure they are working together smoothly. This might involve regular meetings to discuss progress, share updates, and address any issues.
+
+  Checking the Work: At various points, the teacher checks in to see how the group is doing. Similarly, COMPANY X regularly reviews how well suppliers and partners are meeting their cybersecurity responsibilities and makes adjustments as needed.
+
+By establishing, communicating, and coordinating the cybersecurity roles and responsibilities clearly, COMPANY X ensures that everyone involved in its supply chain works together effectively to protect against cyber threats, much like a well-organized group project leads to a successful outcome.

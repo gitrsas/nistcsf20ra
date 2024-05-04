@@ -1,0 +1,35 @@
+For the control GV.SC-06 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Planning and due diligence are performed to reduce risks before entering into formal supplier or other third-party relationships," here’s how it can be understood and applied for COMPANY X. This control underscores the importance of conducting thorough assessments and risk evaluations before formalizing relationships with suppliers or third parties to mitigate potential cybersecurity risks.
+
+Understanding GV.SC-06
+This control means that COMPANY X must engage in detailed planning and perform rigorous due diligence to identify and address any cybersecurity risks that could arise from new supplier or third-party relationships. The goal is to ensure these relationships do not expose the organization to unexpected security vulnerabilities.
+
+Expected Evidence
+
+Due Diligence Procedures:
+  Documented procedures for conducting due diligence on potential suppliers or third parties. These procedures should include steps for assessing the cybersecurity practices and risk profiles of these entities.
+  Example: A standardized due diligence checklist that covers evaluating the third party's security policies, compliance with relevant cybersecurity standards, and past security performance or breach history.
+
+Risk Assessment Reports:
+  Reports generated from the risk assessments conducted as part of the due diligence process. These reports should detail the identified risks associated with a potential supplier or third party and any mitigating factors or necessary controls.
+  Example: A risk assessment report for a potential IT service provider, highlighting areas of concern such as data handling practices and the provider’s own third-party relationships.
+
+Approval and Decision Documentation:
+  Documentation that captures the decision-making process regarding new suppliers or third parties, showing that cybersecurity considerations were integral to the process.
+  Example: Meeting minutes or decision logs from the procurement committee or risk management team that include discussions of the cybersecurity implications of new third-party relationships.
+
+Integration with Procurement Processes:
+  Evidence that cybersecurity due diligence is integrated into the broader procurement process. This should show that cybersecurity assessments are a standard part of evaluating all potential suppliers and third parties before contracts are signed.
+  Example: Procurement policy documents that mandate cybersecurity risk assessments as part of the standard vetting procedures for all new suppliers.
+
+Simple Explanation
+Think of COMPANY X like a homeowner considering hiring different contractors to work on their house:
+
+  Checking the Contractors: Just as a homeowner would check a contractor's references, insurance, and work history before hiring them, COMPANY X performs thorough checks (due diligence) on potential suppliers to ensure they can handle data securely and have good cybersecurity practices.
+
+  Assessing Risks: Before agreeing to work with a contractor, the homeowner might assess potential risks, like whether the contractor's work might damage the house's structure. Similarly, COMPANY X assesses what risks a supplier might bring, like the possibility of data breaches or compliance issues.
+
+  Making Decisions: Just as a homeowner would document their decision to hire a contractor based on their evaluation, COMPANY X keeps records showing that cybersecurity was a key factor in their decision to start a relationship with a supplier.
+
+  Integrating Checks into Choices: Just as a careful homeowner would not consider a contractor who doesn't have liability insurance, COMPANY X integrates cybersecurity checks into the regular process of choosing suppliers, ensuring all potential risks are considered before any agreements are signed.
+
+By conducting thorough planning and due diligence before establishing new third-party relationships, COMPANY X ensures that it minimizes potential cybersecurity risks, safeguarding the organization's data and systems from potential threats introduced through its supply chain.

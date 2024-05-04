@@ -1,0 +1,34 @@
+For the control GV.PO-01 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Policy for managing cybersecurity risks is established based on organizational context, cybersecurity strategy, and priorities and is communicated and enforced," here’s how it can be understood and applied for COMPANY X. This control emphasizes the importance of having a clear, detailed cybersecurity policy that aligns with the organization’s overall context and strategic priorities.
+
+Understanding GV.PO-01
+This control means that COMPANY X should have a formal, written policy that outlines how the organization manages cybersecurity risks. This policy should reflect the specific needs and context of the organization, be clearly communicated to all relevant parties, and be strictly enforced.
+
+Expected Evidence
+
+Cybersecurity Policy Document:
+  A comprehensive document that outlines the organization’s approach to managing cybersecurity risks. This policy should include details on risk assessment procedures, risk mitigation strategies, and roles and responsibilities.
+    Example: A cybersecurity policy manual that is reviewed and updated annually, detailing procedures for everything from daily security measures to emergency response protocols.
+
+Communication Records:
+  Documentation showing that the cybersecurity policy has been communicated to all employees, contractors, and relevant third parties. This could include emails, intranet postings, or presentations.
+    Example: Records of an annual mandatory cybersecurity training session where the policy is reviewed with staff, or screenshots from an intranet page where the policy is accessible to all employees.
+
+Training and Awareness Programs:
+  Programs designed to ensure that all personnel are aware of the cybersecurity policy and understand their role in enforcing it. These programs should include training on the specifics of the policy and updates whenever the policy changes.
+    Example: Training logs and materials that outline the key points of the cybersecurity policy and how employees are expected to comply.
+
+Enforcement and Compliance Monitoring:
+  Mechanisms in place to monitor compliance with the cybersecurity policy and to enforce it when violations occur. This could include regular audits, security reviews, and disciplinary actions for non-compliance.
+    Example: Audit reports that review adherence to the cybersecurity policy or records of disciplinary actions taken against employees who violate the policy.
+Simple Explanation
+Imagine COMPANY X is like a big team playing a sport. The cybersecurity policy is like the rulebook that tells everyone on the team how to play safely and fairly.
+
+  Creating the Rulebook: The coaches (senior management) write a rulebook that fits the type of sport they play and how they want to play it (organizational context and cybersecurity strategy). This rulebook helps prevent injuries (security breaches) and helps the team play better (protect and advance the organization’s interests).
+
+  Teaching the Rules: Every player (employee) and referee (manager) needs to know the rules well. The coaches hold training sessions at the start of the season (onboarding) and refresher courses before big games (ongoing training sessions) to make sure everyone knows the rules.
+
+  Following the Rules: During games, referees watch the players to make sure they follow the rules. If someone breaks a rule, there are penalties (enforcement mechanisms).
+
+  Keeping the Rulebook Up-to-Date: After each season, the coaches review how well the rules worked and update them to make sure they keep everyone safe and improve how the team plays.
+
+By having a clear, communicated, and enforced rulebook, COMPANY X ensures that everyone knows how to protect themselves and the organization, leading to a safer and more effective team environment.

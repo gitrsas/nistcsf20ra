@@ -1,0 +1,41 @@
+For the control GV.SC-08 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Relevant suppliers and other third parties are included in incident planning, response, and recovery activities," here’s how it can be understood and applied for COMPANY X. This control emphasizes the importance of integrating suppliers and third parties into the organization's incident response and recovery strategies to ensure coordinated and effective handling of cybersecurity incidents.
+
+Understanding GV.SC-08
+
+This control means that COMPANY X needs to ensure that all critical suppliers and third parties are actively involved in the organization's plans for responding to and recovering from cybersecurity incidents. This involvement is crucial because these parties can either be a source of a security incident or can be critical in resolving one.
+
+Expected Evidence
+
+Incident Response Plans Including Third Parties:
+  Documented incident response plans that specifically include roles and responsibilities for suppliers and other third parties. These plans should detail how these parties will be involved in addressing incidents, from detection through to recovery.
+    Example: An incident response plan that outlines specific steps and communications protocols involving key IT service providers, including their contact information and expected actions during an incident.
+
+Contracts with Incident Response Clauses:
+  Contracts with suppliers that include clauses mandating their involvement in incident response activities. These clauses should specify requirements for reporting incidents, collaborating during investigations, and participating in recovery efforts.
+    Example: Contractual agreements that require suppliers to notify COMPANY X immediately in the event of a breach and to cooperate fully in incident investigation and mitigation efforts.
+
+Joint Training and Drills:
+  Records of joint incident response training sessions and drills that include both COMPANY X’s internal teams and relevant third parties. These activities help ensure that everyone knows their roles and can effectively collaborate during an incident.
+    Example: Documentation and feedback from a joint cyber incident simulation exercise that involved critical suppliers, testing the rapid sharing of information and joint response strategies.
+
+Communication Protocols:
+  Established communication protocols that define how information about potential or actual incidents is shared with and received from third parties. These protocols help ensure timely and effective exchange of critical information during an incident.
+  Example: Communication guidelines within the incident response plan that detail when and how suppliers should be contacted, what information should be exchanged, and who in COMPANY X is responsible for coordinating with the third parties.
+
+Review and Feedback Mechanisms:
+  Mechanisms for reviewing the effectiveness of third-party involvement in incident response activities and for collecting feedback to improve future responses. This includes after-action reviews that involve third parties.
+    Example: After-action report from a recent cybersecurity incident that includes assessments of how effectively third parties contributed to the response and recovery efforts, along with recommendations for improvements.
+
+Simple Explanation
+Imagine COMPANY X as a coach preparing a sports team for big games:
+
+    Including Everyone in the Playbook: Just like a coach makes sure not only the players but also the support staff (like trainers and medical staff) know the game plan, COMPANY X includes suppliers in their incident response plans to ensure everyone knows what to do in case of a cybersecurity "game day" situation.
+
+    Setting Rules in Contracts: Just as a coach might have rules that require players to report injuries, COMPANY X has contracts that require suppliers to report any security incidents and participate in the response.
+
+    Practicing Together: Just like the whole team practices drills together, COMPANY X conducts joint drills with their suppliers to practice responding to simulated incidents, ensuring everyone can work together smoothly under pressure.
+    Clear Communication Lines: Like a coach sets up clear lines for players to report issues or updates, COMPANY X establishes clear communication protocols with suppliers for quick and effective information sharing during an incident.
+
+    Reviewing Game Tapes: After a game, a coach reviews tapes with the team to identify what worked and what didn’t. Similarly, COMPANY X reviews incidents with all involved parties, including suppliers, to refine their response strategies for future incidents.
+
+By including suppliers and other third parties in incident response planning and activities, COMPANY X ensures a coordinated and comprehensive approach to managing and mitigating cybersecurity incidents, enhancing the overall resilience of the organization.

@@ -1,0 +1,34 @@
+or the control GV.RM-06 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "A standardized method for calculating, documenting, categorizing, and prioritizing cybersecurity risks is established and communicated," here’s how it can be understood and applied for COMPANY X. This control focuses on ensuring that the company uses a consistent approach to manage cybersecurity risks effectively.
+
+Understanding GV.RM-06
+This control means that COMPANY X should use a specific, consistent way to figure out how big cybersecurity risks are, write them down, sort them into groups, and decide which ones to deal with first. This helps make sure everyone in the company is on the same page about cybersecurity risks and knows which ones are the most important to fix.
+
+Expected Evidence
+Risk Assessment Framework Document:
+  A detailed document that describes the methods and criteria used to evaluate and prioritize cybersecurity risks.
+    Example: A risk assessment guideline that includes formulas or criteria for risk scoring, along with explanations on how to document, categorize, and prioritize risks.
+
+Risk Register:
+  A regularly updated document or database that records all identified cybersecurity risks, their categorization, severity, and the actions planned or taken to mitigate them.
+    Example: A digital or physical risk register that lists risks with details such as risk score, category (e.g., high, medium, low), and prioritization for action.
+
+Training and Communication Records:
+  Evidence that the standardized risk management method has been communicated to and understood by relevant employees, especially those involved in risk management and IT security.
+    Example: Records of training sessions or workshops on the risk management process, including participant lists, training materials, and feedback.
+
+Audit Reports or Reviews:
+  Reviews or audits that evaluate how well the risk management process is being followed and whether it is effective.
+    Example: Internal or external audit reports that analyze the adherence to the risk assessment framework and suggest improvements.
+
+Simple Explanation
+Think of managing cybersecurity risks like a doctor handling health problems. Just like a doctor has a standard way to check your health, find problems, and decide which ones need the most urgent care, COMPANY X needs a standard way to check their computer systems, find security problems, and decide which ones are the most critical to fix first.
+
+  They have a special "health check book" (Risk Assessment Framework) that tells them how to check for problems, how serious each problem is, and how to write everything down so they don't forget.
+
+  They keep a "health record" (Risk Register) where they write down all the problems they find, how big each problem is, and what they plan to do about it.
+
+  They have "health classes" (Training and Communication) where they teach everyone how to use the health check book and keep the health record updated.
+
+  Sometimes, they have a "health inspector" (Audit) come in to check if they are using the health check book right and keeping the health records properly.
+
+This way, everyone knows how to handle cybersecurity problems systematically and which ones to fix first to keep the company safe.

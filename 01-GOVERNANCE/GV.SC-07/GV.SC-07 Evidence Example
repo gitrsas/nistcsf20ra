@@ -1,0 +1,42 @@
+For the control GV.SC-07 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "The risks posed by a supplier, their products and services, and other third parties are understood, recorded, prioritized, assessed, responded to, and monitored over the course of the relationship," here’s how it can be understood and applied for COMPANY X. This control highlights the need for continuous oversight and management of the risks associated with suppliers and third parties throughout the duration of their relationship with the organization.
+
+Understanding GV.SC-07
+
+This control means that COMPANY X must establish a comprehensive and ongoing process for managing risks associated with each supplier and third-party relationship. This process involves understanding these risks, documenting them, assessing their severity, responding appropriately, and continually monitoring the relationship to manage any changes in the risk profile.
+
+Expected Evidence
+
+Risk Management Framework for Suppliers:
+  A documented framework that outlines the processes for managing risks associated with suppliers and third parties. This framework should detail how risks are identified, assessed, prioritized, and monitored.
+    Example: A supplier risk management policy that includes procedures for initial risk assessment, ongoing monitoring, and response strategies for different levels of risk.
+
+Supplier Risk Registers:
+  A dynamic risk register that includes all current suppliers and third parties, detailing the specific risks associated with each. This register should be regularly updated as new information becomes available or as the risk landscape changes.
+    Example: An electronic risk register that categorizes suppliers by risk level, with entries for each supplier that include detailed risk profiles and historical risk assessment data.
+
+Continuous Monitoring Reports:
+  Regular reports that provide updates on the risk status of suppliers and third parties, showing how risks are being managed and any changes in the risk profiles over time.
+    Example: Quarterly monitoring reports that review the security performance of key suppliers and note any incidents or changes in their risk status.
+
+Incident Response Records:
+  Documentation of any incidents involving suppliers or third parties, including how the incidents were managed and what measures were taken to mitigate any impacts.
+    Example: Incident logs and response reports detailing the timeline, impact, and organizational response to a security breach at a supplier’s facility.
+
+Training and Awareness Programs:
+  Training materials and records of training sessions that educate relevant internal staff on the processes for managing supplier and third-party risks. This training ensures that all stakeholders understand their roles in the risk management process.
+    Example: Training presentation slides and attendance logs from sessions aimed at procurement and IT security teams, focusing on how to manage ongoing supplier risks.
+
+Simple Explanation
+Imagine COMPANY X is like a team coach overseeing a group of specialized players (suppliers and third parties):
+
+  Knowing the Players: Just like a coach needs to know the strengths and weaknesses of each player, COMPANY X keeps detailed records of each supplier’s capabilities and risks.
+
+  Game Plan: Just as a coach has a strategy for using each player effectively while managing their weaknesses, COMPANY X has a plan for how to manage risks associated with each supplier.
+
+  Watching the Game: A coach doesn’t just make a plan and walk away; they watch how players perform in every game and practice. Similarly, COMPANY X continuously monitors each supplier to see if their risk level changes and how well they are managing their security responsibilities.
+
+  Adjusting the Strategy: If a player starts showing signs of trouble, the coach might revise their strategy to mitigate any potential problems. COMPANY X does the same by adjusting how they work with suppliers when new risks emerge.
+
+  Training the Team: A coach ensures all team members know the game plan and how to handle unexpected situations. COMPANY X trains its staff to be aware of how to handle issues with suppliers, ensuring everyone knows their role in managing these relationships.
+
+By actively managing and monitoring the risks associated with suppliers and third parties throughout the relationship, COMPANY X ensures that it can respond effectively to any changes and maintain the security and integrity of its operations.

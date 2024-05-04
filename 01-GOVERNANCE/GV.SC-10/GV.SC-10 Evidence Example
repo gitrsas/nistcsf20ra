@@ -1,0 +1,36 @@
+For the control GV.SC-10 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Cybersecurity supply chain risk management plans include provisions for activities that occur after the conclusion of a partnership or service agreement," here’s how it can be understood and applied for COMPANY X. This control emphasizes the need to manage and mitigate risks that may persist even after a formal business relationship with a supplier or third party has ended.
+
+Understanding GV.SC-10
+
+This control means that COMPANY X needs to have clear plans in place for handling the cybersecurity aspects of disengaging with suppliers and third parties. These plans should address how to secure or remove access to sensitive information, return assets, and ensure that no residual security vulnerabilities remain after the relationship ends.
+
+Expected Evidence
+
+Post-Partnership Security Procedures:
+  Documented procedures that outline the steps to be taken when a partnership or service agreement ends. This includes revoking access rights, returning or securely disposing of shared data and resources, and conducting final security audits.
+    Example: A checklist or standard operating procedure (SOP) document for offboarding suppliers, detailing actions such as the deactivation of access credentials, retrieval of company-owned devices, and deletion of stored data.
+
+Contract Clauses Regarding Post-Partnership Activities:
+  Copies of contracts that include specific clauses outlining the responsibilities of both parties in relation to cybersecurity at the end of the agreement. These clauses ensure that suppliers understand their obligations to help maintain security after the conclusion of the agreement.
+    Example: Contract sections that require the supplier to cooperate in the secure transfer or destruction of data, and to participate in exit interviews and final security reviews.
+
+Audit and Compliance Reports:
+  Reports from audits conducted post-partnership to ensure that all contractual obligations related to cybersecurity were fulfilled and that no residual risks were left unaddressed.
+    Example: Final audit reports assessing the completion of data deletion or the secure return of assets, along with any compliance issues noted during the offboarding process.
+
+Training and Awareness Programs:
+  Training materials and records that ensure relevant staff are aware of the procedures for securely managing the conclusion of supplier relationships. This training helps prevent oversights that could lead to security breaches.
+  Example: Training session records for procurement and IT security teams that cover the protocols for ending supplier contracts and the importance of thorough security reviews during the offboarding process.
+
+Simple Explanation
+Think of COMPANY X’s management of ending supplier relationships like moving out of a house:
+
+  Securing the House: Just as you would change the locks after a roommate moves out to ensure they no longer have access to your home, COMPANY X implements strict procedures to revoke access and secure all systems and data once a supplier relationship ends.
+
+  Cleaning Up: When moving out, you’d ensure that nothing important is left behind and that any shared items are returned or disposed of securely. Similarly, COMPANY X ensures that all assets are returned, and any data shared with the supplier is either securely transferred back or destroyed.
+
+  Final Checks: Just as you might do a final walkthrough of the house to make sure everything is in order, COMPANY X conducts a final security audit to ensure there are no loose ends or security vulnerabilities left after the supplier is offboarded.
+
+  Teaching Everyone the Process: Just as a family might teach their children to double-check that all doors are locked and windows closed when they leave a place, COMPANY X trains its staff on the importance of security practices when ending business relationships.
+
+By including specific provisions for the activities that occur after the conclusion of a partnership or service agreement, COMPANY X ensures that cybersecurity risks are managed comprehensively, reducing the possibility of residual risks that could arise from improperly closed or managed relationships.

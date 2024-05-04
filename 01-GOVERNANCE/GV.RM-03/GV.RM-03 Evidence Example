@@ -1,0 +1,25 @@
+For the control GV.RM-03 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Cybersecurity risk management activities and outcomes are included in enterprise risk management processes," here's how you can understand and apply it for COMPANY X, a healthcare payer company. I'll describe the expected evidence for this control and provide examples of what that evidence could look like, keeping the explanation simple and clear.
+
+Understanding GV.RM-03
+This control means that whatever the company does to manage cybersecurity risks (like protecting patient data or preventing unauthorized access to systems) should be part of the overall plan for managing all types of risks in the company, like financial risks or legal risks.
+
+Expected Evidence
+
+Documentation of Integrated Risk Management Processes:
+  Evidence that cybersecurity risks are discussed and handled as part of the broader enterprise risk management (ERM) discussions and documents.
+    Examples: A section within the enterprise risk management policy that includes cybersecurity, or meeting minutes showing cybersecurity topics discussed in risk management meetings.
+
+Cybersecurity Inclusion in Enterprise Risk Registers:
+  A risk register or similar document that lists potential risks to the organization should include specific entries for cybersecurity risks.
+    Example: An updated risk register file that shows cybersecurity risks, their potential impacts, and the measures the company plans to take to manage these risks.
+
+Reporting and Communication Materials:
+  Reports or presentations created for management or the board that include information on cybersecurity risks as part of the overall risk landscape.
+    Example: A quarterly risk management report that includes a section on cybersecurity, detailing new threats, status of ongoing mitigation measures, and impact analysis.
+
+Integration in ERM Software Tools:
+  Use of enterprise risk management software that includes modules or components specifically for managing cybersecurity risks.
+    Example: Screenshots or user manuals from the ERM software showing how cybersecurity risks are tracked and managed.
+
+Simple Explanation
+Think of the company like a school, and risks are like different problems the school could face. Some problems are like snow days when school might close (like financial issues), and some are like keeping the school safe from strangers (like cybersecurity). Just like the school principal makes plans to handle both snow days and safety together, COMPANY X needs to make sure its plans for keeping information safe are part of all the plans for handling any kind of problem the company might face. They write down these plans and show them to the teachers (managers) and the school board (the company’s board) so everyone knows what the plan is and can help keep the school safe and running smoothly.

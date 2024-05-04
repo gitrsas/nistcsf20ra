@@ -1,0 +1,40 @@
+For the control GV.SC-09 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Supply chain security practices are integrated into cybersecurity and enterprise risk management programs, and their performance is monitored throughout the technology product and service life cycle," here’s how it can be understood and applied for COMPANY X. This control focuses on embedding supply chain security practices within the broader cybersecurity and risk management strategies, ensuring they are not only part of the initial setup but also monitored consistently over the lifespan of the products and services involved.
+
+Understanding GV.SC-09
+
+This control means that COMPANY X must ensure that security practices related to the supply chain are fully incorporated into the organization’s overall cybersecurity and risk management frameworks. Additionally, the effectiveness of these practices needs to be continuously monitored and assessed over the entire lifecycle of technology products and services to ensure they remain effective and adapt to new risks as they arise.
+
+Expected Evidence
+
+Integrated Risk Management Frameworks:
+  Documentation showing how supply chain security practices are integrated into the overall cybersecurity and enterprise risk management frameworks. This should detail the processes for ongoing risk identification, assessment, mitigation, and monitoring related to supply chain security.
+    Example: A section within the enterprise risk management policy that specifically addresses supply chain risks, including criteria for risk assessments, mitigation strategies, and roles and responsibilities for managing these risks.
+
+Lifecycle Monitoring Processes:
+  Procedures and tools used to monitor the security performance of supply chain elements throughout the technology product and service lifecycle, from development and acquisition through deployment and maintenance.
+    Example: Process documentation for the regular review and updating of security controls in software procurement, including security audits at each stage of software updates and maintenance.
+
+Performance Metrics and Reporting:
+  Regular reports that evaluate the effectiveness of supply chain security practices, using predefined metrics to measure performance against set goals and objectives.
+    Example: Quarterly supply chain security performance reports that track metrics such as incident response times, the number of detected vulnerabilities in third-party products, and compliance rates with security standards.
+
+Supplier Performance Reviews:
+  Records of periodic reviews of supplier performance, specifically focusing on their compliance with agreed-upon security practices and requirements.
+    Example: Annual supplier review reports that assess each supplier’s adherence to contractual security obligations and the effectiveness of their security measures.
+
+Continuous Improvement Mechanisms:
+  Mechanisms for using the outcomes of monitoring and reviews to drive improvements in supply chain security practices. This includes updating policies, practices, and agreements based on performance and evolving risks.
+    Example: Feedback loops within the risk management process that incorporate lessons learned from supply chain security incidents into policy revisions and training programs.
+
+Simple Explanation
+Think of COMPANY X managing its supply chain security like maintaining a high-performance race car over its racing life:
+
+  Building a Race Plan: Just as a race team integrates engine maintenance, tire checks, and fuel strategies into their race plan, COMPANY X integrates supply chain security into their overall cybersecurity strategy to ensure all parts work together seamlessly.
+
+  Monitoring During the Race: Throughout the race, the team continually monitors the car’s performance, checking tire wear, fuel levels, and engine stats to ensure everything is working as expected. Similarly, COMPANY X continuously monitors the performance of their supply chain security measures throughout the lifecycle of their products and services.
+
+  Reviewing Race Data: After each race, the team reviews performance data to see what can be improved. COMPANY X does the same by reviewing supplier performance and the effectiveness of security practices, making adjustments as needed to handle new challenges.
+
+  Improving for the Next Race: Based on the review, the race team may change fuel suppliers, adjust tire choices, or tweak engine settings. COMPANY X similarly uses the insights gained from monitoring and reviews to improve their supply chain security practices, ensuring they are always up to the challenges of an evolving cybersecurity landscape.
+
+By ensuring that supply chain security practices are thoroughly integrated and continuously monitored within their broader cybersecurity and risk management programs, COMPANY X maintains a strong defense against potential supply chain threats throughout the lifecycle of their technology products and services.

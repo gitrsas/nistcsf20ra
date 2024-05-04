@@ -1,0 +1,35 @@
+For the control GV.RM-05 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Lines of communication across the organization are established for cybersecurity risks, including risks from suppliers and other third parties," here's how you can understand and apply it for COMPANY X, a healthcare payer company. This control focuses on ensuring that everyone involved, from internal teams to external partners, knows how to communicate about cybersecurity risks effectively.
+
+Understanding GV.RM-05
+This control means that the company should have clear and known ways for people to talk about and report cybersecurity issues. This includes not only the employees but also any outside companies that work with COMPANY X, like technology providers or contractors.
+
+Expected Evidence
+
+Communication Protocols and Policies:
+  Documents that outline specific protocols or policies for communicating about cybersecurity issues within the organization and with external parties.
+    Example: A cybersecurity communication policy document that specifies who to contact, how to report issues, and how often to communicate about cybersecurity matters.
+
+Contact Lists:
+  Updated lists of internal and external contacts responsible for handling cybersecurity matters, including third-party vendors.
+    Example: A directory or database that includes contact information for the company’s cybersecurity team, IT department, and third-party service providers’ security contacts.
+
+Record of Communication Training:
+  Training records showing that employees, including those in procurement and those who manage third-party relationships, have been trained on the communication protocols for reporting cybersecurity risks.
+    Example: Attendance logs and materials from training sessions focused on cybersecurity communication procedures.
+
+Audit Trails or Logs of Communications:
+  Records of communications related to cybersecurity risks, showing how information about potential or actual cybersecurity issues is shared within and outside the organization.
+    Example: Logs from a cybersecurity incident reporting tool or emails that document the notification process following a suspected security breach.
+
+Simple Explanation
+Think of COMPANY X like a big team, and cybersecurity like keeping the team’s game plan safe from opponents. Just like a coach needs to know if there’s a problem with the play or if an opponent knows their strategies, the company needs clear ways for everyone to report if something risky is happening with their computer systems or data.
+
+  Everyone in the company, including the coach (managers), players (employees), and even other teams they work with (suppliers and third parties), needs to know who to tell if they see something wrong, like a suspicious email or a system acting weird.
+
+  They have a special list of phone numbers and emails (contact list) so they know who to call or write to if they see a problem.
+
+  Just like players practice their plays, employees practice what to do in case of a cybersecurity problem (through training).
+
+  They keep records of every time they talk about a cybersecurity issue (audit trails or logs), so they can look back and see what happened, how they handled it, and how they can do better next time.
+
+This way, everyone knows how to keep the team’s game plan safe, and they work together to protect it.
