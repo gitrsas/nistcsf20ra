@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RC.RP-04: Critical mission functions and cybersecurity risk management are considered to establish post-incident operational norms**, here's a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that after an incident, the organization reassesses and adjusts its operational norms to prioritize critical mission functions and strengthen cybersecurity risk management. This includes evaluating which systems and processes are essential for the organization’s mission and ensuring they are resilient against future incidents. Adjusting operational norms helps ensure that the organization can maintain essential functions under a variety of conditions and improve overall cybersecurity posture.
+
+### Expected Evidence
+1. **Post-Incident Review Procedures**: Documented procedures that outline how the organization reviews and adjusts operational practices following an incident, focusing on critical functions and cybersecurity enhancements.
+
+2. **Training Records**: Documentation showing that personnel involved in post-incident reviews are trained on evaluating and adjusting operational norms.
+
+3. **Post-Incident Reports**: Detailed reports from after incidents that discuss the reassessment of operational norms and any changes made to prioritize critical mission functions and enhance cybersecurity.
+
+4. **Audit Reports**: Reports from audits that assess the effectiveness of the post-incident operational adjustments, ensuring that they effectively enhance resilience and security.
+
+5. **Meeting Minutes and Decision Logs**: Documentation from meetings where post-incident operational norms were discussed and decided, showing the rationale behind decisions and the stakeholders involved.
+
+### Examples of Evidence
+- **Post-Incident Review Policy Document**: A policy that specifies how operational norms should be reassessed and adjusted after an incident, focusing on maintaining critical functions and managing cybersecurity risks.
+- **Training Session Summaries**: Summaries of training sessions for staff involved in post-incident reviews, detailing the curriculum and learning objectives.
+- **Sample Post-Incident Review Report**: An example of a post-incident report that evaluates how well critical functions were maintained during the incident and recommendations for operational improvements.
+- **Internal Audit Summary on Post-Incident Adjustments**: A summary from an internal audit that reviews changes made to operational norms after recent incidents, assessing their impact and effectiveness.
+- **Executive Meeting Minutes**: Minutes from an executive meeting where post-incident adjustments were discussed, showing the involvement of high-level management in the decision-making process.
+
+By maintaining robust controls and comprehensive documentation for reassessing and adjusting operational norms post-incident, organizations ensure that they can continue to perform critical functions effectively and enhance their cybersecurity measures. This proactive approach helps build resilience and prepares the organization to handle future challenges more effectively.

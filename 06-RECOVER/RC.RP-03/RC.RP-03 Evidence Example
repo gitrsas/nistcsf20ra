@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RC.RP-03: The integrity of backups and other restoration assets is verified before using them for restoration**, here’s a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control focuses on ensuring that backups and other assets used for system restoration are intact and uncorrupted before they are used. Verifying the integrity of these assets is crucial to prevent the restoration of compromised or faulty data, which could prolong system downtime or introduce new vulnerabilities. This involves regular checks and validations to ensure that backups are complete, accurate, and free from tampering.
+
+### Expected Evidence
+1. **Backup Integrity Verification Procedures**: Documented procedures that outline how the integrity of backups and restoration assets is checked, including the tools and methods used.
+
+2. **Training Records**: Documentation showing that personnel responsible for data restoration are trained on integrity verification processes.
+
+3. **Integrity Check Logs**: Logs that record the outcomes of integrity checks, detailing when they were performed, by whom, and the results.
+
+4. **Audit Reports**: Reports from audits assessing the adequacy of the backup integrity verification processes, verifying that they are conducted regularly and effectively.
+
+5. **Incident Reports Involving Restoration Failures**: Documentation of any incidents where integrity issues were found during the restoration process, including how the issues were addressed.
+
+### Examples of Evidence
+- **Backup and Restoration Policy Document**: A policy document that includes a section on the importance of verifying the integrity of backups and the specific methods used for verification.
+- **Training Completion Certificates**: Certificates or records indicating that relevant personnel have been trained in backup integrity verification techniques.
+- **Sample Integrity Check Report**: An example of a report from an integrity check of a backup, showing the verification process and any anomalies detected.
+- **Internal Audit Summary on Backup Integrity**: A summary from an internal audit that reviews the organization's backup integrity checks, noting any deficiencies and recommending improvements.
+- **Restoration Incident Log Entry**: A log entry documenting an incident where a backup was found to be compromised during the restoration process, including the actions taken to rectify the situation.
+
+By maintaining robust controls and comprehensive documentation for verifying the integrity of backups and restoration assets, organizations can ensure that their recovery processes are secure and effective. This practice is critical for maintaining the reliability of data restoration and minimizing the risk of restoring compromised systems.

@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RC.RP-01: The recovery portion of the incident response plan is executed once initiated from the incident response process**, here's a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that after an incident is managed through containment and eradication, the organization moves to the recovery phase to restore systems and operations back to normal. The recovery plan includes steps to repair damage, restore services, and verify that systems are fully functional and secure. Execution of this plan is critical to minimize downtime and ensure that business operations can resume safely and efficiently.
+
+### Expected Evidence
+1. **Recovery Plan Documentation**: Documented recovery strategies and procedures that are part of the organization's incident response plan, detailing steps to restore systems and operations.
+
+2. **Activation Records**: Documentation that the recovery plan was activated, indicating when and by whom the decision was made, based on the incident response process.
+
+3. **Training Records**: Records showing that personnel involved in the recovery process are trained to execute the recovery plan effectively.
+
+4. **Recovery Logs**: Detailed logs documenting the execution of recovery actions, including timelines, actions taken, personnel involved, and outcomes.
+
+5. **Audit Reports**: Reports from audits assessing the effectiveness of the recovery execution, ensuring that actions align with the documented plan and that systems are restored to operational status securely.
+
+### Examples of Evidence
+- **Recovery Procedure Section of the Incident Response Plan**: A section within the incident response plan that details the recovery process, including criteria for moving to recovery, roles and responsibilities, and steps to be followed.
+- **Recovery Initiation Log Entry**: A log entry or incident report noting the initiation of the recovery process, detailing the rationale and authorization for the transition to recovery.
+- **Training Completion Certificates**: Certificates showing that the recovery team has completed specific training on the recovery procedures outlined in the incident response plan.
+- **Sample Recovery Action Log**: An example from a recovery log that outlines actions taken during the recovery phase, such as system restorations, data validations, and security checks.
+- **Post-Recovery Audit Summary**: A summary from a post-recovery audit that reviews how the recovery was executed and verifies the integrity and security of the restored systems.
+
+By maintaining robust controls and comprehensive documentation for the execution of the recovery portion of the incident response plan, organizations can ensure that they not only recover from incidents efficiently but also reinforce their resilience against future disruptions. This detailed approach helps in minimizing the impact of incidents and supports a swift return to normal business operations.

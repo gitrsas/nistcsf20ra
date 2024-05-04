@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RC.RP-05: The integrity of restored assets is verified, systems and services are restored, and normal operating status is confirmed**, here’s a clear explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that after an incident, when systems and services are restored, the integrity of these assets is thoroughly verified to ensure they have not been compromised. It involves checking that the restored systems are authentic, unaltered, and free from any residual effects of the incident. Once integrity is confirmed, systems and services are brought back online and their normal operational status is verified to ensure they function as expected.
+
+### Expected Evidence
+1. **Restoration and Verification Procedures**: Documented procedures that outline the steps for restoring systems and verifying the integrity of restored assets. This includes specific methods and tools used for verification.
+
+2. **Training Records**: Documentation showing that personnel involved in the restoration process are trained on these procedures.
+
+3. **Restoration Logs**: Detailed logs documenting the restoration process, the integrity verification results, and the confirmation of normal operational status.
+
+4. **Audit Reports**: Reports from audits that review the restoration process, focusing on how well the integrity of assets is verified and the effectiveness of restoring normal operations.
+
+5. **System Performance Reports**: Reports generated after restoration that compare system performance against baseline levels to confirm normal operating status.
+
+### Examples of Evidence
+- **System Restoration Policy**: A document that includes guidelines for system restoration, integrity checks, and procedures for confirming normal operations.
+- **Training Completion Certificates**: Certificates or records indicating that relevant staff have been trained in restoration and integrity verification processes.
+- **Sample Restoration Log Entry**: An entry from a restoration log that details an instance of system restoration, including integrity checks performed and results.
+- **Post-Restoration Audit Summary**: A summary from a post-restoration audit that evaluates the restoration process, particularly the thoroughness of integrity checks and the effectiveness of the process in returning systems to normal operations.
+- **Operational Status Report**: A report comparing the post-restoration performance of systems and services to their performance benchmarks to confirm they are operating normally.
+
+By maintaining robust controls and comprehensive documentation for verifying the integrity of restored assets and confirming the normal operational status, organizations can ensure that their systems are fully functional and secure post-incident. This meticulous approach is essential for minimizing the risk of latent issues and ensuring that operations can resume effectively without further disruptions.
