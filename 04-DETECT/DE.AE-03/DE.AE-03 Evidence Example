@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **DE.AE-03: Information is correlated from multiple sources**, here's a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that information from different sources within the organization is collected and analyzed together to provide a comprehensive view of security events. Correlating data from multiple sources like network traffic, system logs, user activities, and security alerts helps in identifying patterns that might indicate a security threat. This approach improves the accuracy of threat detection and helps in understanding the scope and impact of security incidents more effectively.
+
+### Expected Evidence
+1. **Data Correlation Policies and Procedures**: Documented guidelines that define how data from various sources is collected, combined, and analyzed. This includes the tools and techniques used for data correlation.
+
+2. **Configuration Details of Security Information and Event Management (SIEM) Systems**: Details on the setup and operation of SIEM systems or other tools that are used for correlating data across multiple sources.
+
+3. **Reports Generated from Correlated Data**: Examples of reports that show how data from different sources has been merged and analyzed to detect or investigate security incidents.
+
+4. **Training Records for Personnel Managing Data Correlation**: Documentation showing that staff responsible for data correlation are adequately trained on the systems and methods used.
+
+5. **Audit Logs and Compliance Reports**: Logs and reports from audits that assess the effectiveness of data correlation practices and their compliance with organizational security policies.
+
+### Examples of Evidence
+- **Data Correlation Policy Document**: A document outlining the processes for integrating and analyzing data from multiple sources to detect security incidents.
+- **SIEM System Configuration Snapshots**: Screenshots or documentation detailing the configuration of SIEM tools that integrate data streams such as logs from firewalls, antivirus software, and intrusion detection systems.
+- **Integrated Security Report Example**: A sample security report generated from correlated data that helped identify a multi-stage attack by linking suspicious network traffic with unusual login activities and system alerts.
+- **Data Analysis Training Completion Records**: Records of training sessions attended by analysts responsible for operating data correlation tools, showing dates and the content covered.
+- **SIEM Tool Audit Summary**: A summary from a recent audit reviewing the effectiveness and accuracy of the SIEM system, including how well it integrates and analyzes data from disparate sources.
+
+By maintaining robust controls and comprehensive documentation for correlating information from multiple sources, organizations can significantly enhance their ability to detect, analyze, and respond to complex security threats. This integrated approach is crucial for developing a holistic security posture that adequately protects against sophisticated attacks.

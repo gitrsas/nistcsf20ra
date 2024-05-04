@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **DE.AE-02: Potentially adverse events are analyzed to better understand associated activities**, here’s an easy-to-understand explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control involves analyzing incidents or abnormalities detected in your organization’s systems to gain a deeper understanding of what happened and why. The goal is to identify the root causes of potentially adverse events and understand their implications. By doing so, you can enhance your security measures to prevent similar incidents in the future. Analysis includes looking at the sequence of events, the points of failure, and the vulnerabilities that were exploited.
+
+### Expected Evidence
+1. **Event Analysis Procedures and Guidelines**: Documented processes that outline how events are analyzed, including the tools used, steps followed, and criteria for escalating issues.
+
+2. **Incident Analysis Reports**: Detailed reports of analyzed incidents, describing the event, the analysis process, findings, and the conclusions drawn about the nature and cause of the event.
+
+3. **Training Records for Analysis Team**: Documentation that team members responsible for analyzing potentially adverse events are properly trained and equipped with the necessary skills and knowledge.
+
+4. **Tools and Technologies Used for Analysis**: Information on the forensic and diagnostic tools used to analyze events, including data about their setup, configuration, and the types of data they can analyze.
+
+5. **Lessons Learned and Follow-up Actions**: Records of lessons learned from the analysis of events and the subsequent actions taken to prevent recurrence, including updates to policies or systems.
+
+### Examples of Evidence
+- **Event Analysis Protocol Document**: A document that specifies how adverse events are analyzed, including methods for data collection, analysis techniques, and reporting formats.
+- **Sample Incident Analysis Report**: An example of a report generated from the analysis of a security breach, showing how the breach was detected, analyzed, and what was learned from the incident.
+- **Analysis Team Training Certificates**: Certificates or records showing that the personnel involved in event analysis have undergone specific training related to cybersecurity incident analysis and handling.
+- **Forensic Tool Configuration Settings**: Documentation or screenshots showing the configuration of forensic tools used in the analysis of events, such as network traffic analyzers or log analysis software.
+- **Post-Incident Review Meeting Minutes**: Minutes from a meeting held to discuss the outcome of an event analysis, including any decisions made about changes to security measures or policies as a result of the analysis.
+
+By maintaining strict controls and comprehensive documentation for analyzing potentially adverse events, organizations can gain valuable insights into security vulnerabilities and incident patterns. This proactive analysis helps in refining preventive measures, enhancing response strategies, and ultimately strengthening the organization's overall security posture.

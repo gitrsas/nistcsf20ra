@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **DE.AE-04: The estimated impact and scope of adverse events are understood**, here's a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that when adverse events occur, such as security breaches or system failures, the organization can assess how much damage they might cause and how far they could spread. Understanding the potential impact and scope helps in prioritizing response efforts and managing resources effectively to mitigate the event. This involves using tools and processes to quickly gather relevant information and assess the severity of incidents.
+
+### Expected Evidence
+1. **Impact Assessment Procedures**: Documented procedures that outline how to evaluate the potential impact and scope of adverse events. This includes the criteria for assessing the severity of incidents.
+
+2. **Incident Reports with Impact Analysis**: Detailed incident reports that include an assessment of the impact and scope, explaining what was affected, how it was affected, and the potential consequences.
+
+3. **Training Records for Incident Handlers**: Documentation showing that personnel responsible for incident handling are trained in impact assessment techniques and understand how to evaluate the scope of incidents.
+
+4. **Tools and Technologies Used for Impact Assessment**: Information on the tools and systems used to help assess the impact and scope of security events, such as threat intelligence platforms or impact analysis software.
+
+5. **Audit and Review Records**: Records from reviews or audits of the impact assessment process, verifying its effectiveness and compliance with organizational policies.
+
+### Examples of Evidence
+- **Impact Assessment Guidelines Document**: A formal document that guides how incidents are analyzed to determine their potential impact and scope, including examples of different severity levels.
+- **Sample Incident Impact Analysis Report**: An example of a report from a specific security incident, detailing the estimated damage, affected systems, and potential business consequences.
+- **Impact Analysis Training Certificates**: Certificates or records showing that incident response team members have completed training on impact and scope analysis procedures.
+- **Incident Analysis Tool Configuration**: Documentation or screenshots showing how analysis tools are set up to evaluate the impact and scope of incidents, including any algorithms or models used.
+- **Post-Incident Audit Summary**: A summary from a post-incident audit that reviews the accuracy and timeliness of the impact assessments performed, including suggestions for improvements.
+
+By maintaining robust controls and comprehensive documentation for understanding the impact and scope of adverse events, organizations can ensure that they are prepared to respond effectively to incidents. This preparation helps minimize damage and restore operations quickly, protecting the organization's assets and reputation.

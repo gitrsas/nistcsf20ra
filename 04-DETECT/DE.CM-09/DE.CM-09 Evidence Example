@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **DE.CM-09: Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events**, here's a detailed explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that all aspects of your organization's computing infrastructure — including hardware, software, and the environments in which they operate — are under continuous surveillance to detect any signs of security issues, malfunctions, or unauthorized changes that could lead to adverse events. Monitoring these components helps identify potential threats or problems early, allowing for swift mitigation actions to protect organizational assets and data integrity.
+
+### Expected Evidence
+1. **Monitoring Policies and Procedures**: Documented policies that outline the monitoring strategy for hardware, software, and runtime environments. This should include what metrics are monitored, how often, and who is responsible for the monitoring.
+
+2. **Monitoring Tool Configurations and Logs**: Configuration details and output logs from monitoring tools that track system performance, hardware health, software operations, and environment stability.
+
+3. **Incident Response Logs**: Logs that record incidents detected through monitoring, including details about the nature of the incident, how it was identified, actions taken to resolve it, and outcome evaluations.
+
+4. **System Health Reports**: Regular reports that provide a snapshot of the computing environment's health, highlighting any potential issues that need attention or could evolve into more significant problems.
+
+5. **Audit and Compliance Reports**: Reports from internal or external audits assessing the effectiveness of the monitoring systems and their compliance with internal policies and external regulations.
+
+### Examples of Evidence
+- **IT Monitoring Strategy Document**: A document detailing how IT components are monitored, including guidelines for frequency, tools used, and escalation procedures for alerts.
+- **Performance Monitoring Dashboard Screenshots**: Screenshots from a system dashboard that provide real-time insights into hardware performance, software operation, and environment statuses.
+- **Incident Report for a Software Failure**: A detailed report documenting an incident caused by software failure, including how the monitoring system identified the problem, the steps taken to address it, and recommendations for preventing future occurrences.
+- **Monthly Health Check Summary**: A summary report compiled monthly that reviews the overall health of IT systems, pointing out any anomalies detected and suggesting follow-up actions.
+- **External Audit Compliance Certification**: A certification or summary report from an external auditor verifying that the monitoring practices meet industry standards and regulatory requirements.
+
+By maintaining robust controls and comprehensive documentation for monitoring computing hardware, software, and runtime environments, organizations can proactively detect and manage potential security and performance issues. This proactive approach not only enhances security but also supports operational continuity by ensuring that IT systems function effectively and efficiently.

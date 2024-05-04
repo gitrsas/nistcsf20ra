@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **DE.CM-06: External service provider activities and services are monitored to find potentially adverse events**, here’s a detailed explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control focuses on ensuring that the activities and services provided by external vendors, such as cloud service providers, IT contractors, and other third parties, are continuously monitored. The aim is to detect any security risks or non-compliant actions that could negatively affect the organization. Monitoring external providers helps ensure they adhere to agreed-upon security standards and contractual obligations, protecting the organization from potential security breaches originating from these external sources.
+
+### Expected Evidence
+1. **Third-Party Monitoring Policies and Procedures**: Documented guidelines that specify how external service provider activities are monitored, including the scope of monitoring, the tools and methods used, and the responsibilities of both the organization and the providers.
+
+2. **Service Level Agreements (SLAs) and Contracts**: Copies of agreements that include clauses related to security monitoring, reporting requirements, and compliance with the organization's security policies.
+
+3. **Monitoring Reports from Service Providers**: Regular reports provided by external service providers detailing their operational performance, security incidents, and any breaches of policy.
+
+4. **Audit and Compliance Reports**: Reports from third-party audits or compliance checks conducted on the service providers, verifying their adherence to security standards and contractual obligations.
+
+5. **Incident Logs and Response Records**: Documentation of any security incidents involving external service providers, including how the incidents were detected, managed, and resolved.
+
+### Examples of Evidence
+- **Vendor Monitoring Policy Document**: A policy that outlines the procedures for monitoring external vendors, detailing what aspects of their service are monitored and how data security is ensured.
+- **SLA Documentation**: Sections of service level agreements that specify the security and monitoring expectations, including performance benchmarks and penalties for non-compliance.
+- **Monthly Security Report from Cloud Provider**: A monthly report received from a cloud service provider that includes logs of all access to the organization’s data and any security incidents reported during the period.
+- **Third-Party Audit Summary**: A summary report from an independent audit performed on a service provider, assessing their compliance with security practices and highlighting any issues found.
+- **Incident Report Involving a Vendor**: A detailed report documenting an incident caused by an external service provider, such as unauthorized access or data leakage, including steps taken by both the provider and the organization to address the incident.
+
+By maintaining strict oversight and documentation of external service providers' activities, organizations can effectively manage the security risks associated with outsourcing and ensure that third-party services do not become a liability. This control is crucial in a landscape where reliance on external vendors is increasing, particularly in areas related to data handling and IT infrastructure.

@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **DE.AE-07: Cyber threat intelligence and other contextual information are integrated into the analysis**, here's a detailed explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control emphasizes the importance of using cyber threat intelligence (information about emerging or existing threats and vulnerabilities) and other relevant contextual data to enhance the analysis of security incidents. Integrating this intelligence helps organizations understand the broader context of threats, anticipate potential attacks, and tailor their defenses more effectively. It involves not just collecting this information but effectively merging it into the organization's security processes to improve decision-making and incident response.
+
+### Expected Evidence
+1. **Threat Intelligence Integration Procedures**: Documented processes that describe how external threat intelligence is collected, evaluated, and integrated with internal security analysis efforts.
+
+2. **Subscription Details to Threat Intelligence Services**: Evidence of subscriptions to commercial, governmental, or industry-specific threat intelligence feeds or services.
+
+3. **Reports Utilizing Integrated Intelligence**: Examples of security reports or incident analyses that incorporate both external threat intelligence and internal data to provide a comprehensive view of security events.
+
+4. **Training Records on Threat Intelligence Usage**: Documentation showing that security analysts and relevant staff are trained on how to integrate and utilize threat intelligence in their daily operations.
+
+5. **Tools and Systems Configurations**: Documentation or configurations of security information and event management (SIEM) systems, threat intelligence platforms (TIPs), or other analytic tools that show how these systems use threat intelligence.
+
+### Examples of Evidence
+- **Threat Intelligence Policy Document**: A formal document outlining how threat intelligence is used within the organization, detailing the sources of intelligence, and the processes for integrating and acting on intelligence.
+- **Threat Intelligence Feed Configuration Snapshots**: Screenshots or configuration details showing how external intelligence feeds are integrated into security systems such as firewalls, intrusion detection systems, or SIEMs.
+- **Incident Analysis Report Incorporating Threat Intelligence**: A specific incident report that demonstrates how external cyber threat intelligence was used to understand and respond to an incident, detailing the impact of the intelligence on the outcome.
+- **Training Completion Certificates**: Certificates indicating that personnel have completed courses or workshops on utilizing threat intelligence effectively.
+- **Audit Report of Intelligence Integration**: A report from an internal or external audit evaluating the effectiveness of the threat intelligence integration process, identifying strengths and potential areas for improvement.
+
+By maintaining robust controls and comprehensive documentation for integrating cyber threat intelligence into security analysis, organizations can ensure they are proactive in their defense mechanisms, adapting quickly to new and evolving threats. This integration enhances the effectiveness of security operations and supports a more strategic approach to cybersecurity.
