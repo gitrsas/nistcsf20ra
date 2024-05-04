@@ -1,0 +1,42 @@
+For the control ID.RA-10 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Critical suppliers are assessed prior to acquisition," here’s how it can be understood and applied for COMPANY X. This control emphasizes the importance of conducting thorough assessments of critical suppliers before entering into formal agreements or acquisitions. The aim is to ensure these suppliers can meet the organization’s security standards and requirements.
+
+Understanding ID.RA-10
+
+This control means that COMPANY X must evaluate potential critical suppliers to ensure they have robust cybersecurity practices and can maintain the integrity and security of the services or products they provide. This includes assessing their security policies, practices, and compliance with relevant standards before establishing any contractual relationships.
+
+Expected Evidence
+
+Supplier Assessment Procedures:
+  Documented procedures that outline how potential critical suppliers are evaluated on their cybersecurity practices and compliance. This includes criteria for what makes a supplier "critical" and what specific security standards they must meet.
+  Example: A supplier assessment checklist that includes verification of the supplier’s security certifications, data protection policies, and previous security audit results.
+
+Due Diligence Documentation:
+  Records of due diligence performed on critical suppliers, including assessments of their security measures, risk management practices, and compliance with regulatory requirements.
+    Example: Due diligence reports that detail the findings from security assessments of suppliers, including any gaps identified and the supplier's plans to address these issues.
+
+Contract Negotiation Records:
+  Documentation that shows how cybersecurity requirements are integrated into contracts with critical suppliers. This includes clauses that specify security expectations, audit rights, and breach notification procedures.
+    Example: Copies of contracts with critical suppliers that include specific security requirements and the consequences of failing to meet those requirements.
+
+Vendor Risk Management System:
+  A system or process used to continuously monitor and evaluate the security performance of critical suppliers after the acquisition. This helps ensure that suppliers remain compliant with the established security criteria throughout the duration of their contract.
+    Example: A vendor risk management platform that tracks compliance with security requirements and flags any deviations or security incidents reported by critical suppliers.
+
+Training and Awareness for Procurement Staff:
+  Training programs designed to educate procurement and security staff on the criteria for assessing supplier security and the importance of due diligence.
+    Example: Training sessions that cover the assessment of supplier security practices, understanding of security certifications, and how to negotiate security terms in contracts.
+
+Simple Explanation
+Think of COMPANY X’s approach to assessing critical suppliers like a hospital preparing to choose a new medical equipment supplier:
+
+  Evaluating Options: Just as a hospital reviews several potential suppliers for their ability to provide high-quality medical equipment, COMPANY X evaluates potential suppliers for their cybersecurity practices.
+
+  Checking Credentials: Like a hospital verifying that medical equipment suppliers meet health and safety standards, COMPANY X checks that IT suppliers meet specific cybersecurity standards.
+
+  Negotiating Terms: As a hospital might negotiate terms that include maintenance and service guarantees, COMPANY X negotiates security requirements and compliance obligations with suppliers.
+
+  Ongoing Monitoring: Just as a hospital continues to assess the performance of their equipment suppliers, COMPANY X continuously monitors its critical suppliers to ensure they consistently meet security requirements.
+
+  Educating the Team: Similar to training hospital staff on operating new medical equipment, COMPANY X trains procurement and IT teams on how to assess and manage supplier security risks.
+
+By thoroughly assessing critical suppliers before acquisition and continuously monitoring their compliance, COMPANY X ensures that its supply chain supports the organization’s cybersecurity objectives and reduces the risk of security breaches originating from third-party vendors.

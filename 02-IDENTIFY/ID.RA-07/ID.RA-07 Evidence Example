@@ -1,0 +1,40 @@
+For the control ID.RA-07 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Changes and exceptions are managed, assessed for risk impact, recorded, and tracked," here’s how it can be understood and applied for COMPANY X. This control is about ensuring that any changes to the IT environment or exceptions to standard policies are carefully managed, assessed for potential risk impacts, thoroughly documented, and tracked over time to maintain security and compliance.
+
+Understanding ID.RA-07
+
+This control means that COMPANY X must have robust processes in place to handle changes (e.g., software updates, configuration changes) and exceptions (e.g., bypassing certain security controls under specific circumstances). These processes should ensure that all changes and exceptions are evaluated for their potential impact on security, recorded in a systematic manner, and tracked to resolution or closure.
+
+Expected Evidence
+
+Change Management Policies and Procedures:
+  Documented policies and procedures that define how changes are proposed, reviewed, approved, implemented, and reviewed for their impact on the organization's risk profile.
+    Example: A change management policy that includes steps for submitting change requests, conducting risk assessments, obtaining necessary approvals, and post-implementation reviews to verify that the changes did not introduce new vulnerabilities.
+
+Exception Management Framework:
+  A framework for managing exceptions to standard operational or security policies, including criteria for evaluating and approving exceptions, and monitoring their impact on security.
+    Example: Documentation of an exception management process that details how exceptions are requested, the criteria for assessment, the approvals required, and the duration for which an exception can remain in effect.
+
+Change and Exception Logs:
+  Detailed logs that record all changes and exceptions, including who requested them, who approved them, the risk assessment results, implementation dates, and any follow-up actions required.
+    Example: A digital log or database that tracks all change requests and exceptions, including relevant details such as the requester, approver, date, risk assessment results, and status updates.
+
+Risk Assessment Reports:
+  Reports from risk assessments conducted as part of the change and exception management processes. These reports evaluate the potential impacts of proposed changes or exceptions on the organization's security and compliance status.
+    Example: Risk assessment reports attached to each change request or exception that detail the potential security impacts and recommend mitigation strategies if necessary.
+
+Tracking and Monitoring Systems:
+  Systems or tools used to monitor the ongoing effects of changes and exceptions on the organization's security posture, ensuring that any unforeseen impacts are quickly identified and addressed.
+    Example: Use of security information and event management (SIEM) systems to monitor for unusual activity following changes or during the period an exception is in place.
+
+Simple Explanation
+Think of COMPANY X’s approach to managing changes and exceptions like a hospital managing prescriptions and treatment adjustments:
+
+  Careful Evaluation: Just as a doctor carefully evaluates the need for a new prescription or a change in treatment, considering potential side effects, COMPANY X evaluates every change or exception for potential security risks.
+
+  Documentation: Like medical records that document every treatment decision and prescription, COMPANY X maintains detailed logs of all changes and exceptions, including the justification, approval, and assessments related to each.
+
+  Ongoing Monitoring: Just as a doctor monitors a patient’s response to a new treatment, COMPANY X tracks the impacts of changes and exceptions to catch and address any negative consequences quickly.
+
+  Review and Approval: Like a treatment plan that must be approved by a medical board or ethics committee, all changes and exceptions at COMPANY X go through a structured approval process that includes risk assessment and mitigation planning.
+
+By managing changes and exceptions with thorough assessment, documentation, and tracking, COMPANY X ensures that its IT environment remains secure and compliant, even as it adapts to new requirements or situations. This proactive approach helps mitigate risks associated with changes and maintain the integrity of the organization’s cybersecurity posture.

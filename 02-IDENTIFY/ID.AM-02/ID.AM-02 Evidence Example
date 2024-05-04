@@ -1,0 +1,36 @@
+For the control ID.AM-02 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Inventories of software, services, and systems managed by the organization are maintained," here’s how it can be understood and applied for COMPANY X. This control is about ensuring that the organization keeps an accurate and up-to-date inventory of all software applications, services, and critical systems it manages, which is essential for maintaining security and operational integrity.
+
+Understanding ID.AM-02
+
+This control means that COMPANY X needs to maintain detailed records of all software, services, and systems used throughout the organization. This includes everything from operating systems and office applications to specialized healthcare management software and cloud services. An accurate software inventory is crucial for effective cybersecurity management as it enables the organization to ensure that all software is legally licensed, properly updated, and secured against potential vulnerabilities.
+
+Expected Evidence
+
+Software Inventory Records:
+  A comprehensive list or database that includes details for each software application, service, and system used by the organization. Information typically recorded includes software name, version, license details, installation date, and the systems on which the software is installed.
+  Example: A digital asset management system that tracks all installed software across different devices and networks, including version numbers and patch status.
+
+Inventory Update Procedures:
+  Documented procedures for regularly updating the software inventory. This should include protocols for adding new software to the inventory when purchased or developed, updating software versions, and removing software that is no longer used.
+    Example: Standard operating procedures (SOPs) detailing how IT staff should log new software acquisitions, upgrades, or decommissions in the inventory system.
+
+Compliance and Audit Reports:
+  Regular audit reports that verify the accuracy and completeness of the software inventory. These reports help identify unauthorized software and ensure compliance with licensing agreements.
+    Example: Semi-annual compliance audit reports that check for unlicensed software and verify that all listed software is up-to-date with the latest security patches.
+
+Training and Awareness Programs:
+  Training materials and records that ensure staff understand the importance of maintaining the software inventory and their responsibilities in keeping it updated. This includes training on the proper procedures for installing and documenting software.
+    Example: Training sessions conducted for new IT staff on how to use the inventory management system and the importance of accurate record-keeping for cybersecurity.
+
+Simple Explanation
+Imagine COMPANY X’s software inventory like a chef’s recipe book:
+
+  Recipe Book for Cooking: Just as a chef needs a recipe book to know what ingredients are needed for each dish, COMPANY X needs a software inventory to know what software is used, where it is installed, and whether it is up to date.
+
+  Updating the Recipe Book: Like a chef updating the recipe book when new recipes are added or old ones are removed, COMPANY X regularly updates its software inventory when new software is acquired, updated, or retired.
+
+  Kitchen Audits: Just as a chef might check the pantry to ensure all ingredients match what’s listed in the recipe book, COMPANY X performs audits to ensure the software inventory is accurate and all software complies with licensing and security requirements.
+
+  Training the Kitchen Staff: Just like a chef trains new cooks on how to follow recipes and keep the kitchen organized, COMPANY X trains its staff on how to manage software installations and maintain accurate inventory records.
+
+By keeping an accurate and regularly updated inventory of software, services, and systems, COMPANY X can manage its IT assets effectively, ensure compliance with licensing requirements, and quickly address potential cybersecurity vulnerabilities. This inventory is a critical component in the organization’s overall cybersecurity strategy, helping to safeguard sensitive healthcare data and systems.

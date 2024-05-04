@@ -1,0 +1,34 @@
+For the control ID.AM-01 from the NIST Cybersecurity Framework (CSF) 2.0, which states that "Inventories of hardware managed by the organization are maintained," here’s how it can be understood and applied for COMPANY X. This control focuses on ensuring that the organization keeps a comprehensive and up-to-date inventory of all hardware devices under its management, which is essential for effective asset management and security.
+
+Understanding ID.AM-01
+
+This control means that COMPANY X must maintain a detailed and regularly updated list of all hardware assets. These assets include all computing devices, network equipment, servers, and any other hardware that is used within the organization. Maintaining an accurate hardware inventory helps in managing security risks, as it allows the organization to ensure that all devices are accounted for, properly secured, and regularly updated.
+
+Expected Evidence
+
+Hardware Inventory Records:
+  A comprehensive database or list that includes details about each piece of hardware within the organization. This should include information such as device type, serial number, location, configuration details, and ownership.
+  Example: A digital asset management system that logs all hardware assets, their specifications, assigned user, location within the organization, and the purchase and warranty expiry dates.
+
+Inventory Update Procedures:
+  Documented procedures for regularly updating the hardware inventory. This includes processes for adding new devices, removing obsolete or decommissioned hardware, and updating details about hardware reassignments or changes.
+    Example: Standard operating procedures (SOPs) that outline the steps for updating the inventory whenever hardware is purchased, moved, replaced, or disposed of.
+
+Compliance and Audit Reports:
+  Regular reports that verify the accuracy and completeness of the hardware inventory. These reports might come from internal audits or external compliance checks.
+    Example: An annual audit report that assesses the current state of the hardware inventory, identifies discrepancies or gaps, and recommends updates or corrections.
+
+Training and Awareness Programs:
+  Training programs and materials that ensure staff are aware of their responsibilities regarding hardware management. This includes training on how to properly document hardware changes and the importance of maintaining accurate inventory records.
+    Example: Training sessions for IT staff and department managers on how to use the asset management system and the importance of timely updates to the inventory.
+
+Simple Explanation
+Think of COMPANY X’s hardware inventory like a library catalog:
+
+  Cataloging Books: Just as a library keeps a catalog of all the books it owns, COMPANY X keeps a detailed list of all the hardware devices it uses. This helps them know exactly what hardware they have, where it is, and who is using it.
+
+  Updating the Catalog: Like a librarian who updates the catalog when new books are bought or old books are removed, COMPANY X has procedures to update their hardware inventory whenever devices are added, moved, or retired.
+
+  Regular Checks: Just as a librarian might periodically check the catalog against the actual books on the shelves to find any missing or extra books, COMPANY X regularly audits their hardware inventory to ensure it’s accurate and up to date.
+
+By maintaining a thorough and regularly updated inventory of hardware, COMPANY X can manage its assets more effectively and ensure that all hardware is adequately protected against cybersecurity risks. This practice is crucial for detecting unauthorized devices, managing updates, and responding promptly to security incidents involving physical assets.
