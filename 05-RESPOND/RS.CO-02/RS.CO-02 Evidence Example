@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RS.CO-02: Internal and external stakeholders are notified of incidents**, here's a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that all relevant parties, both within and outside the organization, are promptly informed about security incidents. This includes internal staff, management, and external stakeholders such as customers, partners, regulatory bodies, or the media, depending on the nature of the incident. Effective communication helps manage the situation transparently, maintain trust, and meet legal and regulatory requirements.
+
+### Expected Evidence
+1. **Communication Procedures**: Documented procedures that outline who needs to be notified, how, and when in the event of an incident. This includes protocols for escalating communication to higher levels of management and external entities.
+
+2. **Training Records**: Documentation showing that employees involved in incident communication are trained on these procedures.
+
+3. **Incident Notification Logs**: Logs or records that detail when an incident was reported, who was notified, the method of notification, and the content of the message.
+
+4. **Audit Reports**: Reports from audits that review the effectiveness and compliance of the incident notification process, ensuring that all required notifications are made correctly and in a timely manner.
+
+5. **Feedback and Follow-up Reports**: Documentation of any follow-up actions taken after initial notifications, including feedback from stakeholders and additional communications issued as more information became available.
+
+### Examples of Evidence
+- **Incident Communication Policy**: A policy document that specifies the guidelines for notifying internal and external stakeholders about incidents.
+- **Training Completion Certificates**: Certificates indicating that relevant personnel have been trained in the incident communication protocols.
+- **Sample Notification Record**: An actual example of a notification sent to stakeholders during a past incident, including details on the timing and the recipients.
+- **External Communication Audit Summary**: A summary from an external audit that evaluates how well the organization communicates with external stakeholders during incidents.
+- **Stakeholder Feedback Document**: A document that compiles feedback from stakeholders on the notification process used during a recent incident, highlighting areas of success and opportunities for improvement.
+
+By maintaining robust controls and comprehensive documentation for notifying stakeholders of incidents, organizations can ensure that necessary parties are adequately informed, trust is maintained, and compliance with legal and regulatory requirements is achieved. This transparency in communication is crucial for effective incident management and maintaining the organization’s reputation in the face of security challenges.

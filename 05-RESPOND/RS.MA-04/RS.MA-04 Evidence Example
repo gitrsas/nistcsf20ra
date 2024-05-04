@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RS.MA-04: Incidents are escalated or elevated as needed**, here’s a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that when certain incidents occur, they are escalated or elevated to higher levels of management or specialized teams according to predefined criteria. This process is crucial for incidents that require additional expertise or authority to manage effectively, ensuring that the necessary resources and decision-making capabilities are engaged to address the issue promptly and effectively.
+
+### Expected Evidence
+1. **Incident Escalation Procedures**: Documented procedures that outline the conditions under which an incident should be escalated, including the roles and responsibilities of those involved in the escalation process.
+
+2. **Training Records**: Documentation showing that personnel involved in incident handling are trained on the escalation procedures.
+
+3. **Incident Logs**: Logs that record the details of incidents, including when and why they were escalated, and to whom the incidents were escalated.
+
+4. **Audit Reports**: Reports from audits that review the incident escalation process, verifying that incidents are escalated appropriately and according to the procedures.
+
+5. **Review and Update Records**: Documentation showing periodic reviews and updates to the escalation procedures to ensure they remain effective and relevant to the organization’s current needs.
+
+### Examples of Evidence
+- **Escalation Policy Document**: A document that defines the escalation process, including the criteria for escalating incidents and the chain of command for elevated incident management.
+- **Training Session Summaries**: Summaries or records from training sessions on incident escalation, indicating the dates these sessions were held and who attended.
+- **Sample Incident Report with Escalation**: An example of an incident report that includes an escalation log, showing how the incident was escalated, the justification for escalation, and the outcome.
+- **Internal Audit Summary of Escalation Practices**: A summary from an internal audit that evaluates the effectiveness of the incident escalation practices, highlighting any issues found and recommendations for improvement.
+- **Policy Review Minutes**: Minutes from a meeting where the incident escalation policy was reviewed and updated, including details on what was changed and why.
+
+By maintaining robust controls and comprehensive documentation for escalating incidents as needed, organizations ensure that critical issues receive the attention and resources required for effective resolution. This structured approach to incident escalation helps in managing risks more effectively and supports a quicker return to normal operations after security events.

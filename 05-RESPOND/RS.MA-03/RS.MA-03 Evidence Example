@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RS.MA-03: Incidents are categorized and prioritized**, here’s a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control involves systematically categorizing and prioritizing incidents based on their severity, impact, and urgency. By organizing incidents in this manner, an organization can respond more effectively, focusing resources and efforts on the most critical issues first. This helps in managing the response efficiently and mitigates potential damage by addressing the most serious problems promptly.
+
+### Expected Evidence
+1. **Incident Categorization and Prioritization Guidelines**: Documented guidelines that define how incidents are categorized (e.g., based on type, severity, impact) and how priorities are assigned to each category.
+
+2. **Training Records**: Documentation showing that personnel responsible for managing incidents are trained in categorization and prioritization procedures.
+
+3. **Incident Logs**: Logs that record incidents along with their assigned categories and priorities, showing how guidelines are applied in practice.
+
+4. **Audit Reports**: Reports from audits that assess the effectiveness of the incident categorization and prioritization process, ensuring it aligns with organizational needs and policies.
+
+5. **Review and Update Records**: Documentation showing periodic reviews and updates to the categorization and prioritization guidelines, reflecting changes in the organization's risk posture or response capabilities.
+
+### Examples of Evidence
+- **Incident Categorization Policy**: A document that outlines the criteria for placing incidents into specific categories and the rationale for their priority levels.
+- **Training Completion Certificates**: Certificates or records indicating that relevant staff have completed training on the incident categorization and prioritization process.
+- **Sample Incident Log Entries**: Entries from an incident log showing the categorization and prioritization of different incidents, including the rationale for these decisions.
+- **Internal Audit Summary**: A summary from an internal audit that reviews how well incidents are categorized and prioritized, including any findings and recommendations for improvement.
+- **Policy Revision Documents**: Documents that record changes to the categorization and prioritization guidelines, including the reasons for these changes and the stakeholders involved.
+
+By maintaining robust controls and comprehensive documentation for categorizing and prioritizing incidents, organizations can ensure that their incident response is timely and effective. This approach enables quicker mitigation of threats and more efficient use of resources, ultimately safeguarding organizational assets and minimizing the impact of security incidents.

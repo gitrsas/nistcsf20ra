@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RS.MI-02: Incidents are eradicated**, here’s a straightforward explanation, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control focuses on the complete removal of the cause and consequences of a security incident from the organization's environment. Eradication involves steps like removing malware, correcting vulnerabilities, and restoring affected systems to their normal state. This phase is crucial to ensure that the incident does not recur, and the systems are restored to secure, functioning conditions.
+
+### Expected Evidence
+1. **Incident Eradication Procedures**: Documented procedures that outline the steps to fully remove the threat from systems, including detailed methods for malware removal, system repair, and vulnerability patching.
+
+2. **Training Records**: Documentation showing that personnel responsible for incident response are trained on eradication techniques and procedures.
+
+3. **Incident Logs and Reports**: Logs and detailed reports documenting the eradication actions taken for each incident, including the tools used, actions taken, and outcomes.
+
+4. **Audit Reports**: Reports from audits that assess the effectiveness of the eradication measures and whether they were executed according to the documented procedures.
+
+5. **After-Action Reviews**: Documentation from after-action reviews that assess the eradication phase of incident responses, discussing the effectiveness, challenges encountered, and improvements needed.
+
+### Examples of Evidence
+- **Eradication Strategy Document**: A detailed plan that specifies the eradication strategies for different types of incidents, outlining processes for removing threats and securing systems post-incident.
+- **Training Session Summaries**: Records from training sessions focused on incident eradication, including participant lists and key topics covered.
+- **Sample Incident Eradication Log**: An entry from an incident log showing the timeline and details of eradication actions, such as specific malware removal steps and system patching.
+- **Internal Audit Summary on Incident Eradication**: A summary from an internal audit that evaluates how effectively incidents were eradicated, including compliance with the eradication procedures.
+- **After-Action Report**: A report detailing the review of an incident response, focusing specifically on the effectiveness of the eradication actions and any follow-up actions taken to prevent recurrence.
+
+By maintaining robust controls and comprehensive documentation for incident eradication, organizations ensure that threats are completely removed from their environments, preventing recurrence and restoring normal operations. This critical step is essential for maintaining the security and integrity of IT systems after an incident.

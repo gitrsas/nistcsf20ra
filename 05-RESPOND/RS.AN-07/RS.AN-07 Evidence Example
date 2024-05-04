@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **RS.AN-07: Incident data and metadata are collected, and their integrity and provenance are preserved**, here’s a breakdown in plain language, the types of evidence you should expect, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that detailed data and associated metadata related to security incidents are carefully collected and stored. Moreover, measures are implemented to safeguard the integrity and trace the origin (provenance) of this data to ensure it remains trustworthy and untampered. Such rigorous data management is crucial for effective incident analysis, supporting legal actions, and meeting compliance requirements.
+
+### Expected Evidence
+1. **Data Collection Procedures**: Documented procedures that outline how incident-related data and metadata are collected, including specific types of data to be gathered and the tools used.
+
+2. **Integrity and Provenance Safeguards**: Information on the measures in place to protect the integrity and provenance of the data, such as cryptographic hashing, digital signing, or using secure storage solutions.
+
+3. **Training Records**: Documentation showing that personnel responsible for data collection are trained in proper collection techniques and the importance of maintaining data integrity and provenance.
+
+4. **Sample Data Collection Logs**: Examples of logs or records that show the collection of incident data and metadata, including details on when and how data was collected and any measures taken to ensure its security.
+
+5. **Audit Reports**: Reports from audits that review the data collection processes, focusing on the adherence to the procedures and the effectiveness of integrity and provenance safeguards.
+
+### Examples of Evidence
+- **Incident Data Handling Policy**: A comprehensive document that specifies how data should be collected, stored, and protected during and after an incident.
+- **Metadata Integrity Checks**: Records or logs showing integrity checks or hash values calculated for collected data to ensure that it has not been altered from its original state.
+- **Training Session Summaries**: Summaries or agendas of training sessions dedicated to incident data collection and protection, showing what topics were covered and who attended.
+- **Data Collection Record**: A detailed record from a specific incident, including timestamps, data sources, types of collected data, methods used for secure collection, and integrity verification results.
+- **Compliance Audit Summary**: A summary from a recent compliance audit that evaluates the organization's practices for collecting and safeguarding incident data and metadata, highlighting any areas for improvement.
+
+By maintaining robust controls and comprehensive documentation for the collection and preservation of incident data and metadata, organizations ensure that they can rely on this information for detailed analysis and reporting. This practice is essential for maintaining the credibility of the investigative process, supporting decision-making, and complying with regulatory requirements.
