@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **PR.PS-01: Configuration management practices are established and applied**, here’s a breakdown in simple terms, expected evidence, and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that all system configurations (the settings and adjustments that dictate how software, hardware, and networks operate) are managed methodically and consistently. Proper configuration management helps prevent security vulnerabilities, ensures systems operate as intended, and helps in quickly restoring services after a disruption. The process includes documenting configurations, controlling changes, and ensuring that all configurations align with security requirements.
+
+### Expected Evidence
+1. **Configuration Management Policy**: A document that outlines the organization's approach to managing system configurations, including standards for secure configurations, roles responsible for managing configurations, and the procedures for making changes to system settings.
+
+2. **Baseline Configuration Records**: Documented standard configurations that are considered secure and serve as a reference point for all systems. These records should be regularly updated as new security updates and configurations are determined.
+
+3. **Change Management Logs**: Logs or databases that track every change made to system configurations, who made the change, and why the change was necessary. This helps in ensuring that all changes are traceable and authorized.
+
+4. **System Configuration Snapshots**: Regularly taken snapshots or images of system configurations which can be used for recovery and auditing purposes.
+
+5. **Audit Reports**: Reports from regular audits that verify systems are configured as per the organization’s policies. These reports might identify discrepancies or deviations from the baseline configurations and recommend corrective actions.
+
+### Examples of Evidence
+- **Configuration Management Policy Document**: A formal document that outlines procedures and responsibilities for managing configurations across IT systems, including details on documenting configurations and processes for changing them.
+- **Baseline Configuration Files**: Documents or digital files that describe the approved settings for software installations, network devices, and operating systems.
+- **Change Request Forms**: Completed forms that document requests for changes to configurations, including details of the requester, the nature of the change, and approval status.
+- **Configuration Audit Summary**: A summary from a recent audit that checks systems against baseline configurations to identify unauthorized changes or non-compliance with security settings.
+- **System Snapshot Logs**: Logs that detail when system snapshots were taken, who authorized them, and any discrepancies noted between the snapshot and baseline configurations.
+
+Implementing and documenting these practices ensures that your organization maintains control over system configurations, reducing the risk of security vulnerabilities and improving the ability to recover from incidents. This control is fundamental in establishing a disciplined environment for managing the technologies that support critical business processes.

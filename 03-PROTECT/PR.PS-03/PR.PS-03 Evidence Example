@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **PR.PS-03: Hardware is maintained, replaced, and removed commensurate with risk**, here's an explanation in plain language, along with the types of evidence you should expect and specific examples of that evidence:
+
+### Plain Language Summary
+This control focuses on ensuring that all physical hardware used by your organization, such as servers, workstations, network devices, and other equipment, is regularly maintained, timely replaced, or removed based on the associated security risks. Proper hardware management helps prevent security vulnerabilities due to outdated or failing equipment and ensures that all hardware components are capable of running the latest, secure software versions. This approach includes regular maintenance checks, timely updates or upgrades, and secure disposal of obsolete hardware.
+
+### Expected Evidence
+1. **Hardware Inventory and Management Policy**: Documentation that lists all hardware assets within the organization and policies for their maintenance, replacement, and secure disposal. This policy should assess and classify the risk associated with each type of hardware.
+
+2. **Maintenance Records**: Logs or databases that document the maintenance history for each hardware asset, including routine checks, repairs, and any hardware components replaced.
+
+3. **Replacement Schedules**: Documentation outlining when hardware is due for replacement, often based on manufacturer’s end-of-life announcements or performance degradation, ensuring that hardware remains effective and secure.
+
+4. **Decommissioning Procedures**: Detailed records of how hardware is securely decommissioned and disposed of, including measures to ensure data is irrecoverably erased and hardware is disposed of in an environmentally responsible manner.
+
+5. **Audit Reports**: Reports from internal or external audits that review the effectiveness of the hardware management program, specifically looking at how well the hardware is maintained, replaced, and decommissioned in line with organizational policies and security requirements.
+
+### Examples of Evidence
+- **Hardware Asset Management Policy**: A document that details the lifecycle management of hardware assets from acquisition to disposal, including security controls for each stage.
+- **Service and Maintenance Logs**: Detailed records from IT support showing dates and actions taken during routine hardware maintenance or when issues are resolved.
+- **End-of-Life (EOL) Tracking Report**: A report listing all hardware approaching EOL, with planned actions for upgrades or replacements noted.
+- **Secure Disposal Certificates**: Certificates or receipts from certified disposal companies confirming that hardware has been disposed of securely, following data sanitization standards.
+- **Annual Security Audit Summary**: A summary from the latest security audit that evaluates hardware management practices, highlighting any instances of non-compliance with the organization's hardware policies.
+
+By maintaining rigorous controls and thorough documentation for hardware management, organizations can significantly mitigate the risks associated with physical computing resources. This control is crucial for ensuring that the infrastructure supporting critical business processes remains robust, secure, and capable of supporting current and future organizational needs.

@@ -1,0 +1,28 @@
+For the NIST CSF 2.0 control PR.AT-02: Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind, here’s a detailed explanation in plain language, along with the expected evidence and examples:
+
+Plain Language Summary
+This control emphasizes that employees in specific, critical roles receive targeted cybersecurity training that is relevant to their specific job functions. These employees often handle sensitive information or manage critical systems, so their training is tailored to address the unique risks and responsibilities associated with their roles. The training equips them with the necessary knowledge and skills to recognize and mitigate cybersecurity threats directly related to their job tasks.
+
+Expected Evidence
+Role-Specific Training Records: Detailed records showing that employees in specialized roles have received training tailored to their specific duties. This should include the dates of training sessions, names of attendees, and the specific cybersecurity topics covered.
+
+Customized Training Materials: Materials that are specifically designed for different roles. For example, IT staff might receive training on network security, while human resources personnel might be trained on safeguarding personal employee data.
+
+Competency Assessments: Results of tests or assessments conducted after training sessions to evaluate the understanding and application of cybersecurity practices pertinent to the employees' roles.
+
+Training Program Descriptions: Documents that outline the training program’s objectives, the curriculum, and how it addresses specific cybersecurity risks related to each specialized role.
+
+Certificates of Completion: Certificates or acknowledgments given to employees after successfully completing their role-specific training, indicating their proficiency in handling cybersecurity issues relevant to their roles.
+
+Examples of Evidence
+Training Logs: A document showing that an IT administrator attended a training session on secure system configuration and vulnerability management.
+
+Customized Training Presentations: A set of slides used in a training session for finance employees focusing on securing financial transactions and protecting against fraud.
+
+Assessment Results: A summary of scores or feedback from a security assessment taken by employees post-training, demonstrating their understanding of the material.
+
+Training Outline: A document describing the annual training plan for the IT department that includes sessions on new security tools and response strategies for potential breaches.
+
+Completion Certificates: Digital or printed certificates issued to employees in the legal department after completing training on data privacy laws and regulations.
+
+Implementing this control effectively ensures that employees in critical roles are not only aware of the general cybersecurity practices but are also proficient in specific, role-related cybersecurity measures. This targeted approach enhances the overall security posture of the organization by aligning employee skills with the unique risks associated with their job functions.

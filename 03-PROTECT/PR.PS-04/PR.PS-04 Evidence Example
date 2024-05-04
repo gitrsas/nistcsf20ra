@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **PR.PS-04: Log records are generated and made available for continuous monitoring**, here’s a breakdown in plain language, along with the expected evidence and specific examples:
+
+### Plain Language Summary
+This control ensures that all key actions within your IT systems, such as user logins, system errors, and transactions, are recorded in logs. These logs are essential for monitoring the health and security of the systems continuously. They help in detecting unauthorized access, identifying system malfunctions, and supporting effective troubleshooting. Proper log management includes not only generating these records but also ensuring they are accessible for analysis and protected against tampering.
+
+### Expected Evidence
+1. **Log Management Policy**: A document that outlines which activities are logged, how logs are stored, who can access them, and how long they are retained. This policy ensures all necessary events are recorded and logs are used responsibly and legally.
+
+2. **Log Generation Configurations**: Documentation or system configurations that show how logs are generated for different systems. This includes details on the level of detail recorded and the mechanisms ensuring the integrity and confidentiality of log data.
+
+3. **Access Control Lists for Logs**: Lists or system settings that specify which users or systems have access to log data, ensuring that only authorized personnel can view or modify logs.
+
+4. **Log Monitoring Tools and Reports**: Evidence of the tools used for monitoring log data and the reports generated from these tools. This could include real-time alerting systems for anomalous activities detected through log analysis.
+
+5. **Audit Trails for Log Access and Changes**: Logs or records that track who accessed log data and what changes, if any, were made to the logs. This helps in ensuring the integrity of log data.
+
+### Examples of Evidence
+- **Logging Policy Document**: A formal policy detailing the organization's approach to logging, including the types of events logged, the sensitivity of log data, and retention periods.
+- **Configuration Snapshots**: Screenshots or exports from systems showing logging settings configured to capture specific events such as failed login attempts, configuration changes, or system errors.
+- **Access Permissions Documentation**: A document or system screenshot showing user roles and permissions related to log access, ensuring sensitive log data is protected from unauthorized access.
+- **Monthly Log Analysis Reports**: Compiled reports that summarize key findings from the analysis of log data, such as trends in system usage or incidents of security concern.
+- **Log Integrity Audit Records**: Records from audits that verify no unauthorized changes have been made to logs, ensuring logs provide a reliable and accurate account of system activities.
+
+By maintaining robust controls over log generation, access, and analysis, organizations can greatly enhance their ability to monitor systems continuously, detect and respond to incidents more effectively, and comply with regulatory requirements regarding data accountability and security.

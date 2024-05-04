@@ -1,0 +1,28 @@
+Control: PR.AA-04: Protection, Conveyance, and Verification of Identity Assertions
+
+Plain Language Summary:
+This control deals with how identity information (identity assertions) is handled safely and securely when users, services, or devices claim who they are across different systems. It ensures that these claims are protected against tampering and theft, are transferred securely, and are verified accurately at each step of the process.
+
+Expected Evidence:
+Identity Assertion Management Policies: Documents outlining how identity assertions are created, protected, transmitted, and verified within the organization.
+
+Security Protocols Configuration: Configuration details or settings from systems and networks that demonstrate how identity assertions are encrypted and securely transmitted.
+
+Verification Mechanisms Documentation: Documentation or logs showing the systems and methods in place for verifying the authenticity of identity assertions when received.
+
+Incident Reports: Records of any security incidents related to identity assertions, such as breaches or interception attempts, and how they were addressed.
+
+Audit Logs: Logs that record the transmission and verification of identity assertions, including any access controls or validation checks performed.
+
+Examples of Evidence:
+Policy and Procedure Manuals: Detailed guidelines that specify how identity assertions must be handled, including standards for encryption, secure transmission, and verification.
+
+System Security Settings Screenshots: Screenshots from network and application settings that confirm the implementation of encryption protocols like TLS for transmitting identity assertions.
+
+Technical Implementation Guides: Manuals or guides from identity management systems detailing how assertions are verified against stored identity information.
+
+Security Breach Reports: Documentation of any incidents involving unauthorized access to or manipulation of identity assertions, including what was affected and the response actions taken.
+
+Compliance Audit Reports: Summaries or full reports from audits that have reviewed the security measures around identity assertions, confirming adherence to both internal policies and relevant regulations.
+
+This control is essential for maintaining the integrity and security of identity management across the organization, ensuring that all claims of identity are handled in a manner that prevents misuse and unauthorized access.

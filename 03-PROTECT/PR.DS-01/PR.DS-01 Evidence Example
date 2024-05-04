@@ -1,0 +1,28 @@
+For the NIST CSF 2.0 control PR.DS-01: The confidentiality, integrity, and availability of data-at-rest are protected, here’s a breakdown in plain language, expected evidence, and examples:
+
+Plain Language Summary
+This control ensures that all data stored in the system—whether on hard drives, databases, or other storage media—is secure from unauthorized access, corruption, or loss. This involves making sure that the data cannot be read or altered by unauthorized people, and that it is available and recoverable when needed. Measures might include encryption, access controls, and regular data backups.
+
+Expected Evidence
+Encryption Standards and Policies: Documentation of the encryption methods used to secure data-at-rest, including the types of encryption algorithms and key management practices.
+
+Access Control Lists (ACLs): Lists or system configurations showing which users or groups have access to specific datasets, ensuring that only authorized personnel can access sensitive data.
+
+Data Integrity Checks: Evidence of mechanisms like checksums or hashes used to verify that data has not been altered in an unauthorized manner.
+
+Backup and Recovery Procedures: Documents outlining the procedures for backing up data and restoring it in the event of data loss, including schedules, locations of backups, and testing logs proving that backups are valid and recoverable.
+
+Audit Logs and Monitoring Reports: Logs and reports that monitor access and changes to the data, demonstrating compliance with the security policy and identifying any unauthorized access attempts.
+
+Examples of Evidence
+Encryption Policy Document: A policy document that specifies the encryption techniques and standards used to protect data stored on company servers.
+
+Access Control Configurations: Screenshots or reports from database management systems showing user permissions and access levels for sensitive datasets.
+
+Checksum Reports: Regularly generated reports verifying the integrity of stored data using checksums or cryptographic hashes.
+
+Backup Logs: A log file detailing dates, times, and the status of data backups, along with test results from recovery drills showing successful data restoration.
+
+Security Audit Summary: A monthly or quarterly report from security monitoring tools detailing access attempts, authorized accesses, and flagged activities around data storage areas.
+
+By maintaining and providing evidence of these measures, your organization demonstrates its commitment to safeguarding the confidentiality, integrity, and availability of its data-at-rest, thereby ensuring compliance with this control and enhancing overall data security.

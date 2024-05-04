@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **PR.IR-03: Mechanisms are implemented to achieve resilience requirements in normal and adverse situations**, here's a straightforward explanation, the types of evidence that should be expected, and examples of that evidence:
+
+### Plain Language Summary
+This control focuses on ensuring that your organization's technology systems can continue to operate effectively under both normal and challenging conditions. It involves implementing strategies and mechanisms that enhance the resilience of these systems, allowing them to recover from disruptions such as cyber attacks, hardware failures, or natural disasters. This may include redundant systems, fault tolerance, load balancing, and regular testing of backup and recovery procedures.
+
+### Expected Evidence
+1. **Resilience Strategy and Policy Documents**: Detailed policies that define the organization's resilience objectives and the specific mechanisms implemented to meet these objectives. This includes plans for redundancy, data replication, and disaster recovery.
+
+2. **Implementation Details of Resilience Mechanisms**: Documentation or configuration details showing the implementation of specific resilience mechanisms such as redundant hardware, failover systems, and data backup solutions.
+
+3. **Testing and Maintenance Records**: Logs and reports detailing the testing of resilience mechanisms (e.g., simulated failover tests) and regular maintenance activities to ensure these mechanisms are always ready to function as expected.
+
+4. **Performance Monitoring Reports**: Ongoing monitoring reports that analyze the performance of resilience mechanisms under various conditions, ensuring they meet the required operational standards.
+
+5. **Incident Response and Recovery Records**: Documentation of incidents that required the activation of resilience mechanisms, including the nature of the incident, how the systems responded, and any lessons learned or subsequent improvements made.
+
+### Examples of Evidence
+- **Business Continuity Plan**: A document that outlines strategies for maintaining business operations under various scenarios, detailing how technological systems support these plans.
+- **Failover Test Logs**: Logs from a recent failover test showing that secondary systems automatically took over when primary systems failed, including the test scenario, execution date, and outcomes.
+- **Data Backup and Restore Test Reports**: Reports from tests confirming that data can be successfully restored from backups, detailing the testing process, frequency, and any issues encountered.
+- **Load Balancing Configuration Details**: Configuration settings for load balancers that distribute traffic across multiple servers to ensure availability and performance.
+- **Post-Incident Analysis Report**: A detailed review of a specific incident where resilience mechanisms were tested by real-world conditions, including the effectiveness of the response and any follow-up actions taken.
+
+By maintaining robust controls and comprehensive documentation for resilience mechanisms, organizations can ensure that their operations can withstand and quickly recover from disruptions. This commitment to resilience not only protects the organization's interests but also builds trust with customers and stakeholders by demonstrating reliability and preparedness.

@@ -1,0 +1,28 @@
+Control: PR.AA-06: Management, Monitoring, and Enforcement of Physical Access
+
+Plain Language Summary:
+This control ensures that physical access to the organization's critical assets like servers, data centers, and office spaces is carefully controlled and monitored. The level of security measures put in place is directly related to how critical or sensitive the asset is—more important assets have stricter controls.
+
+Expected Evidence:
+Physical Security Policy: A document that outlines the rules and procedures for managing physical access to the organization’s facilities and assets, tailored to different levels of risk associated with each asset.
+
+Access Control Logs: Records that track who enters and exits secure areas, when they do so, and sometimes why, ensuring that only authorized personnel have access.
+
+Security System Configuration and Maintenance Records: Documentation showing the installation, configuration, and regular maintenance of physical security systems such as card readers, biometric scanners, and CCTV systems.
+
+Incident Response Logs: Logs detailing any security incidents related to physical access, including unauthorized entry attempts and the actions taken in response.
+
+Regular Audit Reports: Reports from regular audits that verify adherence to the physical security policies and the effectiveness of the measures in place.
+
+Examples of Evidence:
+Physical Security Policy Manual: A comprehensive guide that details security measures and procedures for managing access to various facilities based on the sensitivity and risk associated with those areas.
+
+Entry and Exit Logs: Electronic or paper logs from security systems that record all individual access events to sensitive areas, showing date, time, and entry/exit points.
+
+Security System Service Records: Service and maintenance records for security equipment like alarms, locks, and surveillance cameras, showing dates of service and any repairs or upgrades made.
+
+Incident Reports: Detailed reports of any physical security breaches or attempts, outlining the circumstances, how the breach was handled, and any subsequent changes made to security protocols.
+
+Compliance Audit Summaries: Summaries or full reports from internal or external audits assessing the physical access controls and their alignment with organizational security requirements.
+
+This control is critical to ensuring that physical access to sensitive assets is strictly regulated and monitored, reducing the risk of unauthorized access and potential security breaches.

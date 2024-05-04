@@ -1,0 +1,25 @@
+Plain Language Summary:
+This control focuses on making sure that the organization keeps track of and manages all the important details (like usernames, passwords, and access credentials) for people, services, and devices that are allowed to access its systems. It's about making sure only the right people and machines can get into the organization's systems, and that this information is up-to-date and managed properly.
+
+Expected Evidence:
+
+Identity and Credential Management Policy: A document that outlines how identities and credentials are managed, including procedures for issuing, maintaining, and revoking access.
+
+User and Device Lists: Updated lists or databases showing all users and hardware with access credentials.
+Access Control Procedures: Documentation on how access is granted, reviewed, and revoked for users and services.
+
+Audit Logs: Records showing changes made to user credentials, such as new accounts created, password changes, or access rights modifications.
+
+System Configuration Snapshots: Screenshots or reports from the identity management system showing the settings and configurations that control how credentials are managed and protected.
+
+Examples of Evidence:
+Document: A policy document approved by management that specifies how user identities and credentials are managed, the roles responsible for managing these credentials, and the security measures in place to protect this information.
+
+Memo or Email: Communication on updates or changes to the identity management policies or systems.
+
+System Report: A report from an identity management system that lists all current users and their access levels.
+Configuration Settings: Screenshots or export files from the identity management platform that show security settings such as password complexity requirements, multi-factor authentication settings, and expiration of credentials.
+
+Audit Log Files: Exported log files that record specific changes to user accounts or group memberships, highlighting when these changes occurred and who made them.
+
+This approach ensures that the organization can demonstrate it has proper controls over who gets access to its systems and that these credentials are managed securely and effectively.

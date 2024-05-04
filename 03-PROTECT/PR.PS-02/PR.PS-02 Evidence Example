@@ -1,0 +1,24 @@
+For the NIST CSF 2.0 control **PR.PS-02: Software is maintained, replaced, and removed commensurate with risk**, here’s a breakdown in plain language, along with the expected evidence and examples of that evidence:
+
+### Plain Language Summary
+This control ensures that all software used by your organization is kept up-to-date, replaced, or removed based on the level of security risk it may pose. Proper software maintenance includes applying updates and patches to fix vulnerabilities, replacing outdated software that no longer receives security updates, and removing software that is unnecessary or poses a security risk. This approach minimizes the potential for security breaches that exploit outdated or vulnerable software.
+
+### Expected Evidence
+1. **Software Inventory and Management Policy**: Documentation that lists all software used within the organization, along with policies for updating, replacing, and removing software. This policy should reflect the risk level associated with each type of software.
+
+2. **Patch Management Logs**: Logs showing the history of software updates and patches applied, including details about the date of the update, the software version, and the specific vulnerabilities addressed.
+
+3. **Decommissioning Records**: Records showing when software was removed from systems, the reasons for its removal, and how the removal process was carried out to ensure no remnants of the software pose a security risk.
+
+4. **Software Replacement Plans**: Plans or documentation that detail the process and timeline for replacing software, particularly those applications that are nearing the end of their support lifecycle or do not comply with current security standards.
+
+5. **Audit Reports**: Security audit reports that assess the effectiveness of the software maintenance program, identifying any gaps in the organization’s practices for software updates, replacements, and decommissioning.
+
+### Examples of Evidence
+- **Software Management Policy Document**: A document outlining how software is managed throughout its lifecycle, including approval processes for new software installations and criteria for software updates and decommissioning.
+- **Patch Deployment Records**: A log file or database entries that record each instance of software patching, including the security patches applied during regular maintenance windows.
+- **End-of-Life Software Report**: A report listing software that has reached or is approaching end-of-life, accompanied by the planned actions for replacement or removal.
+- **Software Removal Checklist**: A checklist used during the software removal process, ensuring that all components of the software are completely uninstalled and that the system is checked for integrity post-removal.
+- **Annual Security Audit Summary**: A summary from the latest security audit that reviews the organization’s compliance with its software management policy, highlighting any non-compliant software and the risks associated with them.
+
+Maintaining strict controls and proper documentation for software management ensures your organization is protected against known vulnerabilities and reduces the risk associated with outdated or unnecessary software. This proactive approach is essential for maintaining a secure IT environment.

@@ -1,0 +1,27 @@
+Control: PR.AA-02: Proofing and Binding Identities to Credentials
+
+Plain Language Summary:
+This control is about verifying the identity of users, services, or devices before giving them access credentials (like usernames and passwords). It ensures that the credentials are truly linked to the correct entity and are appropriate for the level of access required based on what they will be doing or the systems they will interact with.
+
+Expected Evidence:
+Identity Verification Procedures: Documents detailing the methods and steps taken to verify identities before issuing credentials. This could include checks against government-issued IDs, employment verification, or other reliable sources.
+
+Credential Binding Records: Records that show how verified identities are linked to the credentials issued. This could include documentation of the process and tools used to create and assign credentials.
+
+Contextual Access Policies: Documentation that describes how the context of the interaction (e.g., job role, location, device type) determines the type of credentials and access levels granted.
+
+Audit Trails: Logs or reports showing the history of credential issuance and the verification steps taken prior to issuance.
+Access Control Lists: Lists or system configurations showing the access privileges assigned to each set of credentials, confirming that they align with the identity proofing results.
+
+Examples of Evidence:
+Verification Records: A log or database entries showing identity checks conducted, such as background checks or ID verification, linked to specific credential issuances.
+
+Credential Issuance Logs: System-generated logs that track when and to whom credentials were issued, including the type of credentials.
+
+Access Policy Document: A policy that outlines different access levels based on roles and the corresponding credential types required for each level.
+
+Audit Reports: Security audit reports that review and validate the identity proofing and credential issuance process, ensuring compliance with organizational policies.
+
+System Screenshots: Screenshots from access management systems showing how credentials are configured and assigned based on the verified identity and intended access.
+
+This control helps ensure that access to sensitive systems and data is granted appropriately and securely, preventing unauthorized access by ensuring credentials are issued based on verified identities and appropriate contexts.

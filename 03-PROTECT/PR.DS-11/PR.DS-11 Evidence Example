@@ -1,0 +1,28 @@
+For the NIST CSF 2.0 control PR.DS-11: Backups of data are created, protected, maintained, and tested, here's a breakdown in simple terms, expected evidence, and examples of that evidence:
+
+Plain Language Summary
+This control ensures that copies of important data are regularly made to prevent data loss in case of hardware failure, cyberattacks, or disasters. The control also ensures these backups are securely stored, properly maintained, and regularly tested to ensure they can be relied upon for restoration. This involves not just making backup copies but also protecting those backups from unauthorized access or corruption and periodically testing them to ensure they can be successfully restored.
+
+Expected Evidence
+Backup Schedules and Policies: Documentation that specifies how often data backups are performed, what data is backed up, and the methods used for backing up data.
+
+Storage Security Measures: Evidence of how backup data is protected, such as through encryption, secure storage locations, or controlled access mechanisms.
+
+Maintenance Records: Logs or reports detailing the maintenance of backup systems and media, including updates to software or replacement of physical storage media.
+
+Test Restore Results: Documentation from regular tests conducted to ensure that backup data can be effectively restored. This should
+include details of the test scenario, the personnel involved, the success or failure rates, and any corrective actions taken following the test.
+
+Backup Integrity Checks: Logs or reports from regular integrity checks performed to ensure that the backup data has not been altered or corrupted.
+Examples of Evidence
+Backup Policy Document: A formal document outlining how data backups are conducted, including frequency, types of data backed up, backup methods (e.g., incremental, full), and roles responsible for managing backups.
+
+Encryption Configuration Files: Configurations or records showing encryption settings used to secure backup data, ensuring that data is unreadable if unauthorized access occurs.
+
+Backup System Audit Logs: Audit logs from the backup systems that show when backups were performed, who performed them, and any access to the backup data.
+
+Disaster Recovery Test Reports: Detailed reports from disaster recovery drills that include testing of data restoration from backups to verify that data can be recovered in a usable state after a catastrophic failure.
+
+Integrity Verification Logs: Logs from tools or systems that perform regular checks on backup data integrity, ensuring backups are complete and uncorrupted.
+
+By maintaining these controls and properly documenting the backup processes, your organization demonstrates its ability to recover from data loss incidents effectively, thus maintaining operational continuity and compliance with data protection standards. This proactive approach to data management enhances data security and builds confidence among stakeholders in the organization’s data handling capabilities.

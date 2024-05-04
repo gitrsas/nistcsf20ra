@@ -1,0 +1,28 @@
+For the NIST CSF 2.0 control PR.DS-02: The confidentiality, integrity, and availability of data-in-transit are protected, here’s a clear explanation suitable for understanding at a 10th-grade level, what evidence you should expect, and examples of that evidence:
+
+Plain Language Summary
+This control focuses on protecting data while it is being transmitted from one location to another, such as across the internet or through a network. It ensures that data sent from your computer to another or from one server to another remains secure, cannot be changed without authorization, and is always accessible as needed. Methods to protect data-in-transit include using secure communication protocols like HTTPS, employing encryption, and ensuring network reliability.
+
+Expected Evidence
+Encryption Protocols Documentation: Detailed descriptions of the encryption methods and protocols (like TLS or SSL) used to secure data while it is being transferred between systems.
+
+Network Security Configurations: Configurations that show how data transmissions are secured, including the use of VPNs, secure tunnels, or encrypted connections.
+
+Performance and Availability Reports: Reports or logs that demonstrate the reliability of the network, ensuring data is always available and is transmitted without significant delays or disruptions.
+
+Incident Response Logs: Logs of any security incidents involving data-in-transit, detailing the nature of the incident, how it was handled, and the outcome.
+
+Compliance Audit Reports: Third-party or internal audit reports that verify the organization is following its policies on securing data-in-transit and that these measures are effective.
+
+Examples of Evidence
+SSL/TLS Certificates: Current certificates used on web servers to encrypt data transmissions between users and the website.
+
+VPN Configuration Details: Documentation or screenshots showing how VPNs are configured to secure data communications within the organization.
+
+Network Performance Logs: System logs that record data transmission times, success rates, and errors, providing evidence of how well the network handles data transfers.
+
+Security Breach Report: A detailed report of a specific incident where data-in-transit was compromised, explaining how the breach occurred, the response actions taken, and the results of the post-incident analysis.
+
+Annual Security Audit Summary: A summary report from an annual compliance audit that includes a review of data-in-transit security practices and outcomes.
+
+Implementing and documenting these controls not only helps in ensuring that data-in-transit is secure but also supports regulatory compliance and builds trust with clients and partners by demonstrating a commitment to data security.
