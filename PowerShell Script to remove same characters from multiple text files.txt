@@ -1,0 +1,14 @@
+To remove ' ###' from multiple txt files use the following powershell script
+Get-ChildItem -Filter "*.txt" | ForEach-Object { (Get-Content $_.FullName) -replace ' ###', '' | Set-Content $_.FullName }
+
+To remove '###' from multiple txt files use the following powershell script
+Get-ChildItem -Filter "*.txt" | ForEach-Object { (Get-Content $_.FullName) -replace '###', '' | Set-Content $_.FullName }
+
+To remove ' **' from multiple txt files use the following powershell script
+Get-ChildItem -Filter "*.txt" | ForEach-Object { (Get-Content $_.FullName) -replace ' \*\*', '' | Set-Content $_.FullName }
+
+To remove '**' from multiple txt files use the following powershell script
+Get-ChildItem -Filter "*.txt" | ForEach-Object { (Get-Content $_.FullName) -replace '\*\*', '' | Set-Content $_.FullName }
+
+To remove '-' from multiple txt files use the following powershell script
+Get-ChildItem -Filter "*.txt" | ForEach-Object { (Get-Content $_.FullName) -replace '-', '' | Set-Content $_.FullName }
