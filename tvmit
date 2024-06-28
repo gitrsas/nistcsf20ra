@@ -724,3 +724,10 @@ Threats: Misinformation, loss of public trust, legal non-compliance, reputationa
 Vulnerabilities: Inadequate public communication strategies, poor incident recovery procedures, insufficient monitoring, lack of approved messaging methods, weak access controls, outdated recovery plans, insufficient training.
 
 Mitigation Strategies: Develop public communication strategies, implement effective incident recovery procedures, monitor recovery activities, use approved messaging methods, enforce access controls, update recovery plans regularly, provide training on public communication
+
+RC.CO-03: Recovery activities and progress in restoring operational capabilities are communicated to designated internal and external stakeholders
+Threats: Misinformation, delayed communication, unauthorized access, data breaches, insider threats, legal non-compliance, reputational damage.
+
+Vulnerabilities: Poor communication strategies, inadequate access controls, insufficient monitoring, weak incident response plans, outdated communication protocols, lack of training, insufficient documentation.
+
+Mitigation Strategies: Develop effective communication strategies, enforce access controls, monitor communication activities, update incident response plans regularly, establish robust communication protocols, provide ongoing training, document recovery processes thoroughly
