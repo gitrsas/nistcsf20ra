@@ -1,0 +1,321 @@
+PR.AA-01: Identities and credentials for authorized users, services, and hardware are managed by the organization
+Threats: Credential theft, unauthorized access, insider threats, brute force attacks, phishing attacks, man-in-the-middle attacks, social engineering attacks.
+Vulnerabilities: Weak password policies, inadequate credential management systems, insufficient access controls, lack of multi-factor authentication, outdated identity management protocols, unpatched software vulnerabilities, poor user training.
+Mitigation Strategies: Implement strong password policies, utilize multi-factor authentication, regularly update and patch identity management systems, enforce strict access controls, conduct user training programs, implement robust credential management practices, monitor and audit access regularly.
+PR.AA-02: Identities are proofed and bound to credentials based on the context of interactions
+Threats: Identity spoofing, unauthorized access, phishing attacks, social engineering attacks, credential stuffing, man-in-the-middle attacks, insider threats.
+Vulnerabilities: Inadequate identity proofing processes, weak binding protocols, insufficient context verification, outdated proofing technologies, lack of continuous monitoring, poor user awareness, insufficient training on identity verification.
+Mitigation Strategies: Implement rigorous identity proofing processes, utilize context-aware verification technologies, regularly update proofing protocols, conduct continuous monitoring, provide user training on identity verification, use advanced binding technologies, enforce strict proofing policies.
+PR.AA-03: Users, services, and hardware are authenticated
+Threats: Credential theft, brute force attacks, insider threats, man-in-the-middle attacks, phishing attacks, social engineering attacks, unauthorized access.
+Vulnerabilities: Weak password policies, single-factor authentication, unpatched software, lack of multi-factor authentication, inadequate user training, insecure storage of credentials, insufficient monitoring and logging.
+Mitigation Strategies: Implement strong password policies, use multi-factor authentication, regularly patch and update software, provide user training, securely store credentials, monitor and log authentication attempts, employ strong authentication protocols.
+PR.AA-04: Identity assertions are protected, conveyed, and verified
+Threats: Interception of identity assertions, replay attacks, man-in-the-middle attacks, forgery of identity assertions, credential stuffing, session hijacking, exploitation of weak verification protocols.
+Vulnerabilities: Unencrypted transmission, lack of token expiry, weak encryption algorithms, insufficient validation checks, insecure storage, inadequate monitoring, poor session management.
+Mitigation Strategies: Encrypt transmissions, implement token expiry, use strong encryption algorithms, conduct robust validation checks, securely store identity assertions, monitor assertion usage, enforce strong session management practices.
+PR.AA-05: Access permissions, entitlements, and authorizations are defined in a policy, managed, enforced, and reviewed, and incorporate the principles of least privilege and separation of duties
+Threats: Unauthorized access, privilege escalation, insider threats, access control policy violations, weak separation of duties, exploitation of excessive privileges.
+Vulnerabilities: Outdated access control policies, improperly configured access controls, lack of audit and review, inadequate role-based access control, failure to implement least privilege, insufficient user training.
+Mitigation Strategies: Regularly review and update policies, enforce access controls consistently, implement robust auditing and monitoring, define and implement role-based access control, adhere to the principle of least privilege, provide user training, use automated tools for managing access.
+PR.AA-06: Physical access to assets is managed, monitored, and enforced commensurate with risk
+Threats: Unauthorized physical access, tailgating, insider threats, theft of assets, physical tampering, environmental threats, loss or theft of access credentials.
+Vulnerabilities: Weak physical security controls, lack of surveillance, insufficient access logging, inadequate incident response, poorly managed credentials, unsecured areas, outdated security policies.
+Mitigation Strategies: Implement strong physical access controls, use surveillance systems, regularly review access logs, train staff on physical security, use multi-factor authentication for access, conduct security assessments, enforce comprehensive security policies.
+PR.AT-01: Personnel are provided with awareness and training so that they possess the knowledge and skills to perform general tasks with cybersecurity risks in mind
+Threats: Social engineering attacks, phishing attacks, insider threats, lack of awareness, credential theft, human error, spear phishing.
+Vulnerabilities: Insufficient training programs, outdated training materials, lack of engagement, infrequent training, lack of role-specific training, poorly defined objectives, ineffective delivery methods.
+Mitigation Strategies: Develop comprehensive training programs, update materials, use engaging methods, conduct frequent sessions, provide role-specific training, define clear objectives, use multiple delivery methods.
+PR.AT-02: Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind
+Threats: Specialized phishing attacks, insider threats, social engineering attacks, lack of awareness, targeted malware, inadequate incident response, exploitation of role-specific vulnerabilities.
+Vulnerabilities: Inadequate role-specific training, outdated content, lack of continuous updates, insufficient threat awareness, poor understanding of policies, limited access to resources, weak collaboration.
+Mitigation Strategies: Develop role-specific training, update materials, implement continuous learning, emphasize threat awareness, ensure policy understanding, provide access to resources, foster collaboration.
+PR.DS-01: The confidentiality, integrity, and availability of data-at-rest are protected
+Threats: Data breaches, unauthorized access, malware attacks, insider threats, physical theft, ransomware, data tampering.
+Vulnerabilities: Weak encryption, improper access controls, outdated storage solutions, lack of monitoring, inadequate backup, poor data management policies, insufficient incident response.
+Mitigation Strategies: Use strong encryption, enforce access controls, update storage solutions, monitor data access, implement backups, develop data management policies, prepare incident response plans.
+PR.DS-02: The confidentiality, integrity, and availability of data-in-transit are protected
+Threats: Man-in-the-middle attacks, eavesdropping, data interception, unauthorized access, replay attacks, data tampering, session hijacking.
+Vulnerabilities: Unencrypted transmission, weak encryption protocols, lack of authentication, poor network security, insufficient monitoring, outdated communication channels, inadequate user training.
+Mitigation Strategies: Encrypt data in transit, use strong encryption protocols, implement authentication, secure networks, monitor communications, update channels, provide user training.
+PR.DS-10: The confidentiality, integrity, and availability of data-in-use are protected
+Threats: Insider threats, unauthorized access, malware, data tampering, process hijacking, data leaks, exploitation of vulnerabilities.
+Vulnerabilities: Insecure processing environments, lack of monitoring, insufficient access controls, outdated systems, weak application security, poor data handling practices, inadequate encryption.
+Mitigation Strategies: Secure processing environments, monitor data usage, enforce access controls, update systems, improve application security, implement data handling best practices, use encryption.
+PR.DS-11: Backups of data are created, protected, maintained, and tested
+Threats: Data loss, ransomware, physical damage, accidental deletion, corruption, unauthorized access, environmental threats.
+Vulnerabilities: Lack of backup strategy, insufficient testing, poor storage solutions, inadequate access controls, outdated backups, lack of redundancy, insufficient monitoring.
+Mitigation Strategies: Develop backup strategies, regularly test backups, use secure storage, enforce access controls, update backups, implement redundancy, monitor backup processes.
+PR.PS-01: Configuration management practices are established and applied
+Threats: Unauthorized changes, misconfigurations, malware, insider threats, system failures, exploitation of vulnerabilities, data breaches.
+Vulnerabilities: Lack of configuration policies, inadequate change management, insufficient monitoring, outdated systems, poor documentation, lack of training, weak access controls.
+Mitigation Strategies: Establish configuration policies, manage changes, monitor systems, update systems, document configurations, provide training, enforce access controls.
+PR.PS-02: Software is maintained, replaced, and removed commensurate with risk
+Threats: Vulnerability exploitation, outdated software, malware, unauthorized access, insider threats, system failures, data breaches.
+Vulnerabilities: Lack of update policies, inadequate patch management, insufficient monitoring, outdated software, poor inventory management, lack of testing, weak access controls.
+Mitigation Strategies: Develop update policies, manage patches, monitor software, update software, maintain inventory, test updates, enforce access controls.
+PR.PS-03: Hardware is maintained, replaced, and removed commensurate with risk
+Threats: Hardware failures, unauthorized access, physical damage, insider threats, environmental threats, outdated hardware, data breaches.
+Vulnerabilities: Lack of maintenance policies, inadequate monitoring, insufficient inventory, outdated hardware, poor documentation, weak access controls, inadequate disposal procedures.
+Mitigation Strategies: Develop maintenance policies, monitor hardware, maintain inventory, update hardware, document processes, enforce access controls, implement disposal procedures.
+PR.PS-04: Log records are generated and made available for continuous monitoring
+Threats: Insider threats, unauthorized access, data breaches, malware, system failures, compliance violations, misconfigurations.
+Vulnerabilities: Lack of logging policies, insufficient monitoring, inadequate storage, poor analysis capabilities, outdated systems, weak access controls, lack of training.
+Mitigation Strategies: Develop logging policies, monitor logs, ensure adequate storage, improve analysis, update systems, enforce access controls, provide training.
+PR.PS-05: Installation and execution of unauthorized software are prevented
+Threats: Malware, unauthorized access, insider threats, system failures, data breaches, compliance violations, exploitation of vulnerabilities.
+Vulnerabilities: Lack of software policies, inadequate monitoring, insufficient access controls, outdated systems, poor inventory management, weak application security, lack of training.
+Mitigation Strategies: Develop software policies, monitor installations, enforce access controls, update systems, maintain inventory, improve application security, provide training.
+
+GV.OC-01: The organizational mission is understood and informs cybersecurity risk management
+Threats: Misalignment of cybersecurity strategies, conflicting organizational objectives, insufficient prioritization of cybersecurity.
+Vulnerabilities: Lack of clear mission understanding, inadequate communication of mission objectives, insufficient integration of cybersecurity with organizational goals.
+Mitigation Strategies: Conduct regular mission reviews, align cybersecurity strategies with organizational objectives, improve communication of mission and cybersecurity goals.
+GV.OC-02: Internal and external stakeholders are understood, and their needs and expectations regarding cybersecurity risk management are understood and considered
+Threats: Stakeholder dissatisfaction, non-compliance with stakeholder requirements, ineffective risk management.
+Vulnerabilities: Poor stakeholder engagement, inadequate understanding of stakeholder needs, lack of regular stakeholder communication.
+Mitigation Strategies: Engage stakeholders regularly, conduct surveys to understand needs, establish clear communication channels.
+GV.OC-03: Legal, regulatory, and contractual requirements regarding cybersecurity — including privacy and civil liberties obligations — are understood and managed
+Threats: Non-compliance with laws, regulatory penalties, legal disputes.
+Vulnerabilities: Lack of awareness of legal requirements, insufficient regulatory compliance processes, inadequate contractual management.
+Mitigation Strategies: Regularly review legal requirements, implement compliance monitoring processes, ensure contractual obligations are met.
+GV.OC-04: Critical objectives, capabilities, and services that external stakeholders depend on or expect from the organization are understood and communicated
+Threats: Service disruptions, loss of stakeholder trust, unmet stakeholder expectations.
+Vulnerabilities: Inadequate understanding of critical services, poor communication of capabilities, insufficient service continuity planning.
+Mitigation Strategies: Identify critical services, communicate capabilities to stakeholders, develop robust continuity plans.
+GV.OC-05: Outcomes, capabilities, and services that the organization depends on are understood and communicated
+Threats: Operational disruptions, unmet organizational needs, dependency failures.
+Vulnerabilities: Lack of clarity on dependencies, poor internal communication, inadequate dependency management.
+Mitigation Strategies: Map organizational dependencies, improve internal communication, implement dependency management strategies.
+GV.RM-01: Risk management objectives are established and agreed to by organizational stakeholders
+Threats: Misalignment of risk management efforts, stakeholder conflicts, ineffective risk mitigation.
+Vulnerabilities: Lack of stakeholder agreement, unclear risk management objectives, insufficient stakeholder involvement.
+Mitigation Strategies: Establish clear risk management objectives, involve stakeholders in planning, ensure alignment with organizational goals.
+GV.RM-02: Risk appetite and risk tolerance statements are established, communicated, and maintained
+Threats: Inconsistent risk management practices, unmanaged risks, stakeholder dissatisfaction.
+Vulnerabilities: Undefined risk appetite, poor communication of risk tolerance, lack of regular updates.
+Mitigation Strategies: Define risk appetite and tolerance, communicate to stakeholders, regularly review and update statements.
+GV.RM-03: Cybersecurity risk management activities and outcomes are included in enterprise risk management processes
+Threats: Fragmented risk management, unaddressed cybersecurity risks, misaligned risk strategies.
+Vulnerabilities: Siloed risk management processes, lack of integration with enterprise risk management, insufficient visibility of cybersecurity risks.
+Mitigation Strategies: Integrate cybersecurity with enterprise risk management, ensure comprehensive risk visibility, align risk management strategies.
+GV.RM-04: Strategic direction that describes appropriate risk response options is established and communicated
+Threats: Ineffective risk responses, strategic misalignment, unmanaged risks.
+Vulnerabilities: Lack of clear strategic direction, poor communication of risk responses, inadequate response planning.
+Mitigation Strategies: Establish clear risk response strategies, communicate to all relevant parties, ensure alignment with organizational goals.
+GV.RM-05: Lines of communication across the organization are established for cybersecurity risks, including risks from suppliers and other third parties
+Threats: Communication breakdowns, unmanaged third-party risks, misaligned risk management efforts.
+Vulnerabilities: Inadequate communication channels, lack of third-party risk visibility, insufficient stakeholder engagement.
+Mitigation Strategies: Establish robust communication channels, engage third parties in risk discussions, ensure comprehensive risk visibility.
+GV.RM-06: A standardized method for calculating, documenting, categorizing, and prioritizing cybersecurity risks is established and communicated
+Threats: Inconsistent risk assessments, unmanaged risks, stakeholder confusion.
+Vulnerabilities: Lack of standardized risk methodologies, poor documentation practices, inadequate risk prioritization.
+Mitigation Strategies: Develop standardized risk methodologies, ensure thorough documentation, prioritize risks effectively.
+GV.RM-07: Strategic opportunities (i.e., positive risks) are characterized and are included in organizational cybersecurity risk discussions
+Threats: Missed opportunities, unmanaged positive risks, strategic misalignment.
+Vulnerabilities: Lack of focus on positive risks, inadequate risk discussions, insufficient stakeholder engagement.
+Mitigation Strategies: Identify and characterize positive risks, include in risk discussions, engage stakeholders in strategic opportunities.
+GV.RR-01: Organizational leadership is responsible and accountable for cybersecurity risk and fosters a culture that is risk-aware, ethical, and continually improving
+Threats: Lack of accountability, poor risk culture, ethical lapses.
+Vulnerabilities: Insufficient leadership involvement, inadequate risk awareness, lack of continuous improvement.
+Mitigation Strategies: Promote leadership accountability, foster a risk-aware culture, encourage continuous improvement.
+GV.RR-02: Roles, responsibilities, and authorities related to cybersecurity risk management are established, communicated, understood, and enforced
+Threats: Role confusion, unmanaged risks, lack of accountability.
+Vulnerabilities: Undefined roles and responsibilities, poor communication, inadequate enforcement.
+Mitigation Strategies: Define and communicate roles, ensure understanding, enforce responsibilities.
+GV.RR-03: Adequate resources are allocated commensurate with the cybersecurity risk strategy, roles, responsibilities, and policies
+Threats: Resource constraints, ineffective risk management, unmet cybersecurity needs.
+Vulnerabilities: Inadequate resource allocation, insufficient budget planning, poor alignment with risk strategy.
+Mitigation Strategies: Allocate resources effectively, plan budgets carefully, align resources with risk strategy.
+GV.RR-04: Cybersecurity is included in human resources practices
+Threats: Untrained staff, poor cybersecurity practices, increased risk exposure.
+Vulnerabilities: Lack of cybersecurity training, insufficient HR involvement, inadequate cybersecurity policies.
+Mitigation Strategies: Include cybersecurity in HR practices, provide regular training, develop robust cybersecurity policies.
+GV.PO-01: Policy for managing cybersecurity risks is established based on organizational context, cybersecurity strategy, and priorities and is communicated and enforced
+Threats: Non-compliance, unmanaged risks, policy violations.
+Vulnerabilities: Lack of clear policies, poor communication, inadequate enforcement.
+Mitigation Strategies: Establish clear policies, communicate effectively, enforce rigorously.
+GV.PO-02: Policy for managing cybersecurity risks is reviewed, updated, communicated, and enforced to reflect changes in requirements, threats, technology, and organizational mission
+Threats: Outdated policies, non-compliance, unmanaged risks.
+Vulnerabilities: Infrequent policy reviews, poor communication, inadequate enforcement.
+Mitigation Strategies: Regularly review and update policies, communicate changes, enforce policies effectively.
+GV.OV-01: Cybersecurity risk management strategy outcomes are reviewed to inform and adjust strategy and direction
+Threats: Strategic misalignment, unmanaged risks, ineffective risk management.
+Vulnerabilities: Lack of regular reviews, poor strategic adjustments, inadequate stakeholder engagement.
+Mitigation Strategies: Conduct regular strategy reviews, adjust direction as needed, engage stakeholders.
+GV.OV-02: The cybersecurity risk management strategy is reviewed and adjusted to ensure coverage of organizational requirements and risks
+Threats: Strategic gaps, unmanaged risks, misaligned objectives.
+Vulnerabilities: Infrequent strategy reviews, inadequate adjustments, poor risk coverage.
+Mitigation Strategies: Regularly review and adjust strategy, ensure comprehensive risk coverage, align objectives with organizational needs.
+GV.OV-03: Organizational cybersecurity risk management performance is evaluated and reviewed for adjustments needed
+Threats: Poor performance, unmanaged risks, ineffective risk management.
+Vulnerabilities: Lack of performance evaluations, inadequate reviews, insufficient adjustments.
+Mitigation Strategies: Evaluate performance regularly, review and adjust as needed, ensure effective risk management.
+GV.SC-01: A cybersecurity supply chain risk management program, strategy, objectives, policies, and processes are established and agreed to by organizational stakeholders
+Threats: Supply chain disruptions, unmanaged risks, stakeholder conflicts.
+Vulnerabilities: Lack of supply chain risk management program, poor strategy alignment, inadequate stakeholder agreement.
+Mitigation Strategies: Establish a supply chain risk management program, align strategy with organizational objectives, engage stakeholders.
+GV.SC-02: Cybersecurity roles and responsibilities for suppliers, customers, and partners are established, communicated, and coordinated internally and externally
+Threats: Role confusion, unmanaged supply chain risks, communication breakdowns.
+Vulnerabilities: Undefined roles and responsibilities, poor communication, inadequate coordination.
+Mitigation Strategies: Define and communicate roles, ensure coordination, engage suppliers, customers, and partners.
+GV.SC-03: Cybersecurity supply chain risk management is integrated into cybersecurity and enterprise risk management, risk assessment, and improvement processes
+Threats: Fragmented risk management, unmanaged supply chain risks, misaligned risk strategies.
+Vulnerabilities: Lack of integration with risk management, poor risk assessments, inadequate improvement processes.
+Mitigation Strategies: Integrate supply chain risk management, conduct thorough risk assessments, implement improvement processes.
+GV.SC-04: Suppliers are known and prioritized by criticality
+Threats: Unmanaged supply chain risks, operational disruptions, supplier failures.
+Vulnerabilities: Poor supplier knowledge, inadequate prioritization, insufficient risk management.
+Mitigation Strategies: Identify and prioritize suppliers, ensure comprehensive risk management, engage critical suppliers.
+ID.AM-01: Inventories of hardware managed by the organization are maintained
+Threats: Unauthorized device access, hardware theft, insider threats, hardware tampering, eavesdropping, physical damage, data breaches.
+Vulnerabilities: Outdated hardware inventory, insufficient access controls, lack of encryption, poor asset tracking, inadequate monitoring, weak physical security, unpatched hardware.
+Mitigation Strategies: Maintain updated inventories, implement strict access controls, encrypt sensitive data, track assets, monitor hardware activity, improve physical security, regularly update and patch hardware.
+ID.AM-02: Inventories of software, services, and systems managed by the organization are maintained
+Threats: Software vulnerabilities, unauthorized access, malware, insider threats, data breaches, software tampering, unlicensed software.
+Vulnerabilities: Outdated software inventory, lack of monitoring, insufficient access controls, poor patch management, inadequate licensing compliance, weak software security, lack of encryption.
+Mitigation Strategies: Keep software inventories updated, monitor software usage, enforce access controls, implement patch management, ensure licensing compliance, strengthen software security, encrypt sensitive data.
+ID.AM-03: Representations of the organization’s authorized network communication and internal and external network data flows are maintained
+Threats: Network attacks, unauthorized access, data interception, man-in-the-middle attacks, malware, insider threats, data breaches.
+Vulnerabilities: Incomplete network maps, weak network monitoring, insufficient encryption, poor access controls, outdated network configurations, inadequate network segmentation, lack of incident response plans.
+Mitigation Strategies: Maintain detailed network maps, monitor network traffic, encrypt network data, enforce access controls, regularly update network configurations, segment networks, develop incident response plans.
+ID.AM-04: Inventories of services provided by suppliers are maintained
+Threats: Third-party risks, supply chain attacks, unauthorized access, data breaches, service disruptions, insider threats, compliance violations.
+Vulnerabilities: Incomplete supplier inventory, insufficient monitoring, poor contract management, inadequate third-party risk assessments, weak access controls, lack of incident response plans, poor compliance tracking.
+Mitigation Strategies: Maintain comprehensive supplier inventories, monitor third-party services, manage contracts effectively, conduct risk assessments, enforce access controls, develop incident response plans, track compliance.
+ID.AM-05: Assets are prioritized based on classification, criticality, resources, and impact on the mission
+Threats: Unauthorized access, data breaches, insider threats, malware, service disruptions, physical damage, data loss.
+Vulnerabilities: Poor asset classification, inadequate risk assessments, insufficient access controls, weak monitoring, lack of incident response plans, inadequate backup solutions, outdated asset management policies.
+Mitigation Strategies: Classify assets accurately, conduct thorough risk assessments, enforce access controls, monitor asset activity, develop incident response plans, implement backup solutions, update asset management policies.
+ID.AM-07: Inventories of data and corresponding metadata for designated data types are maintained
+Threats: Data breaches, unauthorized access, data tampering, insider threats, malware, data loss, compliance violations.
+Vulnerabilities: Incomplete data inventories, insufficient metadata management, poor access controls, inadequate encryption, weak monitoring, lack of data classification, outdated data management policies.
+Mitigation Strategies: Maintain detailed data inventories, manage metadata effectively, enforce access controls, encrypt sensitive data, monitor data activity, classify data accurately, update data management policies.
+ID.AM-08: Systems, hardware, software, services, and data are managed throughout their life cycles
+Threats: Unauthorized access, data breaches, malware, insider threats, hardware failures, software vulnerabilities, service disruptions.
+Vulnerabilities: Poor lifecycle management, inadequate monitoring, insufficient access controls, weak patch management, outdated hardware and software, lack of incident response plans, inadequate decommissioning processes.
+Mitigation Strategies: Implement lifecycle management practices, monitor assets continuously, enforce access controls, manage patches effectively, update hardware and software regularly, develop incident response plans, ensure proper decommissioning.
+ID.RA-01: Vulnerabilities in assets are identified, validated, and recorded
+Threats: Exploited vulnerabilities, unauthorized access, data breaches, malware, insider threats, service disruptions, compliance violations.
+Vulnerabilities: Poor vulnerability management, inadequate monitoring, insufficient validation processes, weak access controls, lack of incident response plans, outdated asset inventories, inadequate patch management.
+Mitigation Strategies: Implement vulnerability management practices, monitor assets continuously, validate vulnerabilities thoroughly, enforce access controls, develop incident response plans, maintain updated asset inventories, manage patches effectively.
+ID.RA-02: Cyber threat intelligence is received from information sharing forums and sources
+Threats: Emerging threats, sophisticated cyber attacks, insider threats, data breaches, service disruptions, malware, unauthorized access.
+Vulnerabilities: Lack of threat intelligence sources, inadequate information sharing, insufficient monitoring, poor access controls, outdated threat management processes, weak incident response plans, inadequate training.
+Mitigation Strategies: Subscribe to threat intelligence sources, share information with relevant parties, monitor threats continuously, enforce access controls, update threat management processes, develop incident response plans, provide regular training.
+ID.RA-03: Internal and external threats to the organization are identified and recorded
+Threats: Unauthorized access, data breaches, malware, insider threats, service disruptions, sophisticated cyber attacks, data loss.
+Vulnerabilities: Poor threat identification processes, inadequate monitoring, insufficient threat recording, weak access controls, lack of incident response plans, outdated threat management policies, inadequate training.
+Mitigation Strategies: Implement threat identification processes, monitor threats continuously, record threats accurately, enforce access controls, develop incident response plans, update threat management policies, provide regular training.
+ID.RA-04: Potential impacts and likelihoods of threats exploiting vulnerabilities are identified and recorded
+Threats: Unauthorized access, data breaches, malware, insider threats, service disruptions, sophisticated cyber attacks, data loss.
+Vulnerabilities: Poor impact and likelihood assessments, inadequate monitoring, insufficient threat recording, weak access controls, lack of incident response plans, outdated threat management policies, inadequate training.
+Mitigation Strategies: Conduct impact and likelihood assessments, monitor threats continuously, record threats accurately, enforce access controls, develop incident response plans, update threat management policies, provide regular training.
+ID.RA-05: Threats, vulnerabilities, likelihoods, and impacts are used to understand inherent risk and inform risk response prioritization
+Threats: Unauthorized access, data breaches, malware, insider threats, service disruptions, sophisticated cyber attacks, data loss.
+Vulnerabilities: Poor risk assessments, inadequate monitoring, insufficient threat recording, weak access controls, lack of incident response plans, outdated risk management policies, inadequate training.
+Mitigation Strategies: Conduct comprehensive risk assessments, monitor risks continuously, record risks accurately, enforce access controls, develop incident response plans, update risk management policies, provide regular training.
+ID.RA-06: Risk responses are chosen, prioritized, planned, tracked, and communicated
+Threats: Unauthorized access, data breaches, malware, insider threats, service disruptions, sophisticated cyber attacks, data loss.
+Vulnerabilities: Poor risk response planning, inadequate monitoring, insufficient risk tracking, weak communication channels, lack of incident response plans, outdated risk management policies, inadequate training.
+Mitigation Strategies: Plan and prioritize risk responses, monitor risk responses continuously, track risks accurately, improve communication channels, develop incident response plans, update risk management policies, provide regular training.
+ID.RA-07: Changes and exceptions are managed, assessed for risk impact, recorded, and tracked
+Threats: Unauthorized access, data breaches, malware, insider threats, service disruptions, sophisticated cyber attacks, data loss.
+Vulnerabilities: Poor change and exception management, inadequate risk impact assessments, insufficient recording and tracking, weak access controls, lack of incident response plans, outdated risk management policies, inadequate training.
+Mitigation Strategies: Implement change and exception management practices, assess risk impacts, record and track changes accurately, enforce access controls, develop incident response plans, update risk management policies, provide regular training.
+ID.RA-08: Processes for receiving, analyzing, and responding to vulnerability disclosures are established
+Threats: Exploited vulnerabilities, unauthorized access, data breaches, malware, insider threats, service disruptions, compliance violations.
+Vulnerabilities: Poor vulnerability disclosure processes, inadequate monitoring, insufficient analysis and response, weak access controls, lack of incident response plans, outdated vulnerability management policies, inadequate training.
+Mitigation Strategies: Establish vulnerability disclosure processes, monitor vulnerabilities continuously, analyze and respond promptly, enforce access controls, develop incident response plans, update vulnerability management policies, provide regular training.
+ID.RA-09: The authenticity and integrity of hardware and software are assessed prior to acquisition and use
+Threats: Counterfeit hardware and software, unauthorized access, data breaches, malware, insider threats, service disruptions, compliance violations.
+Vulnerabilities: Poor authenticity and integrity assessments, inadequate monitoring, insufficient verification processes, weak access controls, lack of incident response plans, outdated procurement policies, inadequate training.
+Mitigation Strategies: Assess authenticity and integrity thoroughly, monitor hardware and software continuously, verify authenticity and integrity, enforce access controls, develop incident response plans, update procurement policies, provide regular training.
+ID.RA-10: Critical suppliers are assessed prior to acquisition
+Threats: Supply chain attacks, unauthorized access, data breaches, service disruptions, counterfeit products, insider threats, compliance violations.
+Vulnerabilities: Poor supplier assessments, inadequate monitoring, insufficient verification processes, weak access controls, lack of incident response plans, outdated procurement policies, inadequate training.
+Mitigation Strategies: Assess critical suppliers thoroughly, monitor supplier activities, verify supplier credentials, enforce access controls, develop incident response plans, update procurement policies, provide regular training.
+ID.IM-01: Improvements are identified from evaluations
+Threats: Evaluation gaps, outdated evaluation methods, ignored recommendations, lack of follow-up, stakeholder disengagement, resource constraints, evaluation bias.
+Vulnerabilities: Inadequate evaluation processes, insufficient documentation, poor follow-up mechanisms, lack of standardized methods, weak stakeholder involvement, insufficient resources, bias in evaluations.
+Mitigation Strategies: Implement robust evaluation processes, document evaluations thoroughly, establish follow-up mechanisms, standardize evaluation methods, engage stakeholders, allocate sufficient resources, reduce bias in evaluations.
+ID.IM-02: Improvements are identified from security tests and exercises, including those done in coordination with suppliers and relevant third parties
+Threats: Inadequate testing, uncoordinated exercises, supplier non-compliance, incomplete test coverage, test result misinterpretation, stakeholder disengagement, lack of continuous improvement.
+Vulnerabilities: Poor testing methodologies, insufficient exercise coordination, non-compliance by suppliers, incomplete coverage of security aspects, misinterpretation of results, weak stakeholder involvement, lack of improvement mechanisms.
+Mitigation Strategies: Develop comprehensive testing methodologies, coordinate exercises with all stakeholders, ensure supplier compliance, cover all security aspects in tests, correctly interpret test results, engage stakeholders, establish continuous improvement mechanisms.
+ID.IM-03: Improvements are identified from execution of operational processes, procedures, and activities
+Threats: Operational inefficiencies, process bottlenecks, procedural non-compliance, activity disruptions, insufficient monitoring, outdated processes, lack of stakeholder feedback.
+Vulnerabilities: Inefficient operational processes, procedural gaps, non-compliance with procedures, activity interruptions, weak monitoring systems, outdated operational methods, lack of feedback mechanisms.
+Mitigation Strategies: Streamline operational processes, identify and resolve bottlenecks, ensure procedural compliance, minimize activity disruptions, implement effective monitoring, update processes regularly, establish feedback mechanisms.
+ID.IM-04: Incident response plans and other cybersecurity plans that affect operations are established, communicated, maintained, and improved
+Threats: Unestablished incident response plans, poor communication, lack of maintenance, insufficient improvements, plan obsolescence, stakeholder disengagement, resource constraints.
+Vulnerabilities: Absence of incident response plans, weak communication channels, poor plan maintenance, lack of improvement initiatives, outdated plans, weak stakeholder involvement, insufficient resources.
+Mitigation Strategies: Establish incident response plans, ensure clear communication, maintain plans regularly, implement improvement initiatives, update plans as needed, engage stakeholders, allocate sufficient resources .
+Detect (DE)
+DE.CM-01: Networks and network services are monitored to find potentially adverse events
+Threats: Unauthorized access, network attacks, malware, insider threats, data breaches, DDoS attacks, man-in-the-middle attacks.
+Vulnerabilities: Inadequate monitoring tools, poor network visibility, lack of real-time monitoring, weak access controls, outdated security protocols, insufficient logging, lack of trained personnel.
+Mitigation Strategies: Implement advanced monitoring tools, enhance network visibility, conduct real-time monitoring, enforce access controls, update security protocols, maintain comprehensive logs, train personnel on network security .
+DE.CM-02: The physical environment is monitored to find potentially adverse events
+Threats: Unauthorized physical access, environmental hazards, insider threats, tampering, theft, natural disasters, equipment failure.
+Vulnerabilities: Lack of physical security measures, inadequate environmental monitoring, insufficient access controls, outdated physical security protocols, poor incident response plans, insufficient surveillance, lack of training.
+Mitigation Strategies: Enhance physical security measures, implement environmental monitoring systems, enforce access controls, update security protocols, develop incident response plans, maintain surveillance systems, train personnel on physical security .
+DE.CM-03: Personnel activity and technology usage are monitored to find potentially adverse events
+Threats: Insider threats, unauthorized access, data exfiltration, misuse of resources, malware, social engineering, credential theft.
+Vulnerabilities: Insufficient activity monitoring, lack of access controls, inadequate user training, outdated monitoring tools, poor incident response, lack of user awareness, insufficient logging.
+Mitigation Strategies: Implement comprehensive activity monitoring, enforce strict access controls, provide user training, update monitoring tools, develop incident response plans, raise user awareness, maintain detailed logs .
+DE.CM-06: External service provider activities and services are monitored to find potentially adverse events
+Threats: Third-party risks, supply chain attacks, unauthorized access, data breaches, service disruptions, malware, insider threats.
+Vulnerabilities: Inadequate third-party monitoring, lack of access controls, insufficient service level agreements, poor incident response, outdated security protocols, weak third-party risk assessments, insufficient oversight.
+Mitigation Strategies: Enhance third-party monitoring, enforce access controls, establish robust service level agreements, develop incident response plans, update security protocols, conduct thorough risk assessments, maintain oversight of external providers .
+DE.CM-09: Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events
+Threats: Malware, unauthorized access, data breaches, insider threats, hardware failures, software vulnerabilities, exploitation of runtime environments.
+Vulnerabilities: Inadequate monitoring tools, insufficient access controls, poor patch management, outdated hardware and software, lack of real-time monitoring, insufficient logging, inadequate incident response.
+Mitigation Strategies: Implement advanced monitoring tools, enforce access controls, manage patches effectively, update hardware and software regularly, conduct real-time monitoring, maintain comprehensive logs, develop incident response plans .
+Respond (RS)
+RS.MA-01: The incident response plan is executed in coordination with relevant third parties once an incident is declared
+Threats: Cyber attacks, data breaches, malware, insider threats, service disruptions, supply chain attacks, unauthorized access.
+Vulnerabilities: Poor incident response planning, lack of coordination with third parties, insufficient communication channels, inadequate incident documentation, weak access controls, outdated response protocols, insufficient resources.
+Mitigation Strategies: Develop comprehensive incident response plans, coordinate with third parties, establish communication channels, document incidents thoroughly, enforce access controls, update response protocols, allocate sufficient resources .
+RS.MA-02: Incident reports are triaged and validated
+Threats: False positives, undetected incidents, delayed responses, data breaches, malware, insider threats, unauthorized access.
+Vulnerabilities: Inadequate triage processes, insufficient validation tools, poor incident documentation, lack of real-time monitoring, weak access controls, outdated incident response protocols, insufficient training.
+Mitigation Strategies: Implement robust triage processes, use advanced validation tools, document incidents thoroughly, conduct real-time monitoring, enforce access controls, update response protocols, train personnel on incident response .
+RS.MA-03: Incidents are categorized and prioritized
+Threats: Service disruptions, data breaches, malware, insider threats, unauthorized access, supply chain attacks, cyber attacks.
+Vulnerabilities: Poor incident categorization, inadequate prioritization methods, insufficient documentation, lack of incident response plans, weak access controls, outdated protocols, insufficient resources.
+Mitigation Strategies: Develop incident categorization methods, implement prioritization processes, document incidents thoroughly, establish response plans, enforce access controls, update protocols, allocate sufficient resources .
+RS.MA-04: Incidents are escalated or elevated as needed
+Threats: Delayed responses, undetected incidents, data breaches, malware, insider threats, unauthorized access, service disruptions.
+Vulnerabilities: Inadequate escalation processes, insufficient monitoring, poor communication channels, lack of incident documentation, weak access controls, outdated response protocols, insufficient training.
+Mitigation Strategies: Implement escalation processes, conduct continuous monitoring, establish communication channels, document incidents thoroughly, enforce access controls, update response protocols, train personnel on incident response .
+RS.MA-05: The criteria for initiating incident recovery are applied
+Threats: Data loss, service disruptions, malware, insider threats, unauthorized access, system failures, supply chain attacks.
+Vulnerabilities: Poor incident recovery criteria, inadequate documentation, insufficient monitoring, lack of response plans, weak access controls, outdated recovery protocols, insufficient training.
+Mitigation Strategies: Establish incident recovery criteria, document incidents thoroughly, conduct continuous monitoring, develop response plans, enforce access controls, update recovery protocols, train personnel on incident recovery .
+Recover (RC)
+RC.RP-01: The recovery portion of the incident response plan is executed once initiated from the incident response process
+Threats: Data loss, service disruptions, malware, insider threats, unauthorized access, system failures, supply chain attacks.
+Vulnerabilities: Inadequate recovery plans, insufficient monitoring, poor documentation, lack of access controls, weak response protocols, outdated recovery methods, insufficient training.
+Mitigation Strategies: Develop comprehensive recovery plans, conduct continuous monitoring, document recovery processes, enforce access controls, update response protocols, implement effective recovery methods, train personnel on incident recovery .
+RC.RP-02: Recovery actions are selected, scoped, prioritized, and performed
+Threats: Data loss, service disruptions, malware, insider threats, unauthorized access, system failures, supply chain attacks.
+Vulnerabilities: Poor recovery action selection, inadequate prioritization, insufficient documentation, lack of monitoring, weak access controls, outdated response protocols, insufficient resources.
+Mitigation Strategies: Establish recovery action selection processes, prioritize recovery actions, document recovery thoroughly, conduct continuous monitoring, enforce access controls, update response protocols, allocate sufficient resources .
+RC.RP-03: The integrity of backups and other restoration assets is verified before using them for restoration
+Threats: Data loss, corrupted backups, malware, insider threats, unauthorized access, system failures, supply chain attacks.
+Vulnerabilities: Inadequate backup verification processes, insufficient monitoring, poor documentation, lack of access controls, weak response protocols, outdated recovery methods, insufficient training.
+Mitigation Strategies: Implement backup verification processes, conduct continuous monitoring, document recovery thoroughly, enforce access controls, update response protocols, implement effective recovery methods, train personnel on backup verification .
+RC.RP-04: Critical mission functions and cybersecurity risk management are considered to establish post-incident operational norms
+Threats: Service disruptions, data breaches, malware, insider threats, unauthorized access, system failures, supply chain attacks.
+Vulnerabilities: Poor post-incident planning, inadequate monitoring, insufficient documentation, lack of access controls, weak response protocols, outdated recovery methods, insufficient training.
+Mitigation Strategies: Develop post-incident operational norms, conduct continuous monitoring, document recovery thoroughly, enforce access controls, update response protocols, implement effective recovery methods, train personnel on post-incident operations .
+RC.RP-05: The integrity of restored assets is verified, systems and services are restored, and normal operating status is confirmed
+Threats: Data loss, corrupted assets, malware, insider threats, unauthorized access, system failures, supply chain attacks.
+Vulnerabilities: Inadequate asset verification processes, insufficient monitoring, poor documentation, lack of access controls, weak response protocols, outdated recovery methods, insufficient training.
+Mitigation Strategies: Implement asset verification processes, conduct continuous monitoring, document recovery thoroughly, enforce access controls, update response protocols, implement effective recovery methods, train personnel on asset verification .
+RC.RP-06: The end of incident recovery is declared based on criteria, and incident-related documentation is completed
+Threats: Data loss, service disruptions, malware, insider threats, unauthorized access, system failures, supply chain attacks.
+Vulnerabilities: Inadequate recovery completion criteria, insufficient monitoring, poor documentation, lack of access controls, weak response protocols, outdated recovery methods, insufficient training.
+Mitigation Strategies: Establish recovery completion criteria, conduct continuous monitoring, document recovery thoroughly, enforce access controls, update response protocols, implement effective recovery methods, train personnel on recovery completion .
+
