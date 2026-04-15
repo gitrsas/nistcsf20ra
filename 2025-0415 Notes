@@ -1,0 +1,27 @@
+## Meeting summary of vulnerability data request
+A high priority request has come from leadership (SMT) for a detailed report on all security vulnerabilities. This includes every pen test and scan result from the last 12 months (since April 1st of last year). The team is feeling pressure because leadership expects this data to be ready now, but the current systems are complex and fragmented.
+### Key facts about the project
+ * **The requirement**
+   * Show all vulnerabilities rated high and above.
+   * List which ones are fixed and the plan for those still open.
+   * Organize the data by state and regulatory body (e.g., Louisiana Gaming Commission).
+ * **Current challenges**
+   * **Data gaps:** The previous manager (Marco) reportedly manipulated or failed to collect data in some regions like Kentucky and North Carolina.
+   * **Complexity:** The network is massive, covering 40,000 employees and millions of customers, making correlation difficult.
+   * **Ownership:** It is often hard to find which team is responsible for fixing a specific bug once it is found.
+ * **The strategy**
+   * The team will use one main spreadsheet to track everything.
+   * They will start by showing enterprise wide scans at the top, followed by state specific requirements.
+   * They will be honest with leadership about where data is missing due to legacy issues.
+### Team roles and responsibilities
+| Name | Primary focus |
+|---|---|
+| **Kevin** | Inherited the vulnerability management program; working on technical cleanup. |
+| **JJ** | Leading the communication with leadership and organizing the regulatory framework. |
+| **Corey** | Responsible for the risk management program and spreadsheet organization. |
+| **Gary / Greg** | Assisting with data aggregation and technical support. |
+### Immediate next steps
+ 1. **Consolidate data:** Corey and Caleb will share the working spreadsheet with Kevin and his team to begin adding scan results.
+ 2. **Map requirements:** The team will link every policy to specific state or tribal regulations.
+ 3. **Regular updates:** Provide Lawrence (leadership) with daily updates on progress and known gaps to manage expectations.
+ 4. **Policy development:** Finalize the new Standard Operating Procedures (SOPs) to ensure this data is tracked better in the future.
