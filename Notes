@@ -1,1 +1,25 @@
+## action items for appomni and posture management
 
+* **locate baseline policies**
+    kevin to meet with the appomni team today to find where the baseline policies for m365 salesforce and snowflake are stored. he needs to identify exactly which configuration items are being checked to reach current security scores.
+
+* **share evidence folder**
+    kevin to share the findings folder with dave. this folder should contain the screenshots and statements that prove why certain issues were marked as false positives or zero risk findings.
+
+* **track risk exceptions**
+    kevin to coordinate with corey to move exceptions and false positives into the new risk platform. this will create a clear paper trail showing the evidence and the duration of each exception.
+
+* **provide jira board access**
+    kevin to send dave the link to the jira board that lists the monitored services wish list and the current work sequence.
+
+* **prioritize new integrations**
+    the team will focus on onboarding oracle hcm and service now immediately to gain visibility into pii and risky configurations. dave also wants crowdstrike added to the list.
+
+* **pivot from okta to ping**
+    due to api throttling issues with okta and the upcoming migration, kevin will stop troubleshooting the okta connection and focus efforts on integrating ping identity instead.
+
+* **confirm oracle timeline**
+    kevin to provide an eta for the oracle hcm connection. he is scheduled to meet with the oracle team tomorrow to initiate the integration.
+
+* **prepare for gene briefing**
+    dave to use the provided evidence and policy details to brief gene tomorrow. the goal is to show a structured process for remediation and oversight rather than just making dashboards green.
